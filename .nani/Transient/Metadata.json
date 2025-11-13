@@ -1,0 +1,6205 @@
+{
+  "actors": [
+    {
+      "id": "Yuki",
+      "type": "Characters",
+      "appearances": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "name": "Yuki"
+    },
+    {
+      "id": "Hanna",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR3",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL2",
+        "ArmR1",
+        "ArmR2",
+        "ArmR4",
+        "Cheeks1-Flushed",
+        "Cheeks1-Normal",
+        "Cheeks1-Off",
+        "Cry1",
+        "Cry",
+        "Fearful",
+        "Fearful1",
+        "Flushed",
+        "Flushed1",
+        "Head1",
+        "Normal1",
+        "Pale1-1",
+        "Pale1-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Smile1",
+        "Surprised",
+        "Surprised1",
+        "Sweat1-1",
+        "Sweat1-Off"
+      ],
+      "name": "Hanna"
+    },
+    {
+      "id": "Ema",
+      "type": "Characters",
+      "appearances": [
+        "ArmR1",
+        "ArmL1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL10",
+        "ArmL11",
+        "ArmL12",
+        "ArmL13",
+        "ArmL14",
+        "ArmL15",
+        "ArmL16",
+        "ArmL2",
+        "ArmL3",
+        "ArmL4",
+        "ArmL5",
+        "ArmL6",
+        "ArmL7",
+        "ArmL8",
+        "ArmL9",
+        "ArmR10",
+        "ArmR11",
+        "ArmR12",
+        "ArmR13",
+        "ArmR2-1",
+        "ArmR2-2",
+        "ArmR3",
+        "ArmR4",
+        "ArmR5",
+        "ArmR6",
+        "ArmR7",
+        "ArmR9",
+        "ArmR8",
+        "Cheeks1-Flushed",
+        "Cheeks1-Normal",
+        "Cheeks1-Off",
+        "Cheeks2-Flushed",
+        "Cheeks2-Normal",
+        "Cheeks2-Off",
+        "Cry",
+        "Cry1",
+        "Determined2",
+        "Fearful",
+        "Fearful1",
+
+        "Flushed",
+        "Flushed1",
+        "Head1",
+        "Head2",
+        "Normal1",
+        "Pale1-1",
+        "Pale1-2",
+        "Pale1-3",
+        "Pale1-Off",
+        "Pale2-1",
+        "Pale2-2",
+        "Pale2-3",
+        "Pale2-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Surprised",
+        "Surprised1",
+        "Sweat1-1",
+        "Smile1",
+        "Sweat1-Off",
+        "Sweat2-1",
+        "Sweat2-Off"
+      ],
+      "name": "Ema"
+    },
+    {
+      "id": "CreatureEma",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureEma"
+    },
+    {
+      "id": "Hiro",
+      "type": "Characters",
+      "appearances": [
+        "Arms1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "Angry2",
+        "ArmL1",
+        "ArmL10",
+        "ArmL11",
+        "ArmL12",
+        "ArmL13",
+        "ArmL2",
+        "ArmL3",
+        "ArmL4",
+        "ArmL5",
+        "ArmL6",
+        "ArmL7",
+        "ArmL8",
+        "ArmL9",
+        "ArmR1",
+        "ArmR10",
+        "ArmR11",
+        "ArmR12",
+        "ArmR13",
+        "ArmR2",
+        "ArmR3",
+        "ArmR4",
+        "ArmR6",
+        "ArmR5",
+        "ArmR7",
+        "ArmR8",
+        "ArmR9",
+        "Arms2",
+        "Arms3",
+        "Arms4",
+        "Cheeks1-Flushed",
+        "Cheeks1-Normal",
+        "Cheeks1-Off",
+        "Cheeks2-Flushed",
+        "Cheeks2-Normal",
+        "Cheeks2-Off",
+        "Cry",
+        "Cry1",
+        "Eyes1_Angry_Open1",
+        "Cry2",
+        "Eyes1_Angry_Open2",
+        "Eyes1_Angry_Open3",
+        "Eyes1_Cry_Closed1",
+        "Eyes1_Cry_Open1",
+        "Eyes1_Fearful_Open1",
+        "Eyes1_Flushed_Open1",
+        "Eyes1_Normal_Closed1",
+        "Eyes1_Normal_Open1",
+        "Eyes1_Normal_Open2",
+        "Eyes1_Normal_Open3",
+        "Eyes1_Normal_Open4",
+        "Eyes1_Normal_Open5",
+        "Eyes1_Painful_Open1",
+        "Eyes1_Pensive_Open1",
+        "Eyes1_Serious_Open1",
+        "Eyes1_Smile_Closed1",
+        "Eyes1_Surprised_Open1",
+        "Eyes2_Angry_Open1",
+        "Eyes2_Angry_Open2",
+        "Eyes2_Angry_Open3",
+        "Eyes2_Cry_Closed1",
+        "Eyes2_Cry_Open1",
+        "Eyes2_Fearful_Open1",
+        "Eyes2_Flushed_Open1",
+        "Eyes2_Normal_Closed1",
+        "Eyes2_Normal_Open1",
+        "Eyes2_Normal_Open2",
+        "Eyes2_Normal_Open3",
+        "Eyes2_Normal_Open4",
+        "Eyes2_Normal_Open5",
+        "Eyes2_Painful_Open1",
+        "Eyes2_Pensive_Open1",
+        "Eyes2_Serious_Open1",
+        "Eyes2_Smile_Closed1",
+        "Eyes2_Surprised_Open1",
+        "Fearful",
+        "Fearful1",
+        "Fearful2",
+        "Flushed",
+        "Flushed1",
+        "Flushed2",
+        "Head1",
+        "Head2",
+        "Mouth1_Angry_Closed1",
+        "Mouth1_Angry_Closed2",
+        "Mouth1_Angry_Open1",
+        "Mouth1_Cry_Closed1",
+        "Mouth1_Determined_Closed1",
+        "Mouth1_Determined_Open1",
+        "Mouth1_Determined_Open2",
+        "Mouth1_Determined_Open3",
+        "Mouth1_Flushed_Closed1",
+        "Mouth1_Fearful_Open1",
+        "Mouth1_Pensive_Closed1",
+        "Mouth1_Normal_Closed1",
+        "Mouth1_Smile_Open1",
+        "Mouth1_Surprised_Open1",
+        "Mouth1_Surprised_Open2",
+        "Mouth2_Angry_Closed1",
+        "Mouth2_Angry_Open1",
+        "Mouth2_Angry_Closed2",
+        "Mouth2_Cry_Closed1",
+        "Mouth2_Determined_Closed1",
+        "Mouth2_Determined_Open1",
+        "Mouth2_Determined_Open2",
+        "Mouth2_Determined_Open3",
+        "Mouth2_Fearful_Open1",
+        "Mouth2_Flushed_Closed1",
+        "Mouth2_Normal_Closed1",
+        "Mouth2_Pensive_Closed1",
+        "Mouth2_Smile_Open1",
+        "Mouth2_Surprised_Open1",
+        "Mouth2_Surprised_Open2",
+        "Normal1",
+        "Normal2",
+        "Pale1-1",
+        "Pale1-Off",
+        "Pale2-1",
+        "Pale2-Off",
+        "Pensive",
+        "Pensive1",
+        "Pensive2",
+        "Smile",
+        "Smile1",
+        "Smile2",
+        "Surprised",
+        "Surprised1",
+        "Surprised2",
+        "Sweat1-1",
+        "Sweat1-Off",
+        "Sweat2-1",
+        "Sweat2-Off"
+      ],
+      "name": "Hiro"
+    },
+    {
+      "id": "CreatureHiro",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureHiro"
+    },
+    {
+      "id": "Meruru",
+      "type": "Characters",
+      "appearances": [
+        "ArmR1_1",
+        "ArmL1",
+        "Normal1",
+        "Angry2",
+        "Angry",
+        "Angry1",
+        "ArmL11",
+        "ArmL12",
+        "ArmL13",
+        "ArmL14",
+        "ArmL10",
+        "ArmL15",
+        "ArmL5",
+        "ArmL16",
+        "ArmL2",
+        "ArmL7",
+        "ArmL8",
+        "ArmL6",
+        "ArmL3",
+        "ArmL9",
+        "ArmL4",
+        "ArmR10_1",
+        "ArmR11_2",
+        "ArmR10_2",
+        "ArmR12_1",
+        "ArmR11_1",
+        "ArmR12_2",
+        "ArmR13_1",
+        "ArmR2_1",
+        "ArmR13_2",
+        "ArmR2_2",
+        "ArmR3_1",
+        "ArmR3_2",
+        "ArmR1_2",
+        "ArmR4_1",
+        "ArmR6_1",
+        "ArmR4_2",
+        "ArmR6_2",
+        "ArmR5_1",
+        "ArmR7_1",
+        "ArmR5_2",
+        "ArmR7_2",
+        "ArmR8_1",
+        "Arms1_1",
+        "ArmR8_2",
+        "Arms1_2",
+        "ArmR9_1",
+        "Cheeks1_Flushed",
+        "ArmR9_2",
+        "Cheeks1_Normal",
+        "Cheeks2_Flushed",
+        "Cheeks2_Normal",
+        "Cheeks2_Off",
+        "Eyes1_Angry_Closed1",
+        "Cry",
+        "Cheeks1_Off",
+        "Cry1",
+        "Eyes1_Angry_Open1",
+        "Cry2",
+        "Default",
+        "Eyes1_Cry_Closed1",
+        "Eyes1_Cry_Closed3",
+        "Eyes1_Cry_Closed2",
+        "Eyes1_Downcast_Open1",
+        "Eyes1_Fearful_Open1",
+        "Eyes1_Flushed_Closed1",
+        "Eyes1_Normal_Open1",
+        "Eyes1_Normal_Open2",
+        "Eyes1_Normal_Open3",
+        "Eyes1_Pensive_Open1",
+        "Eyes1_Pensive_Open2",
+        "Eyes1_Smile_Closed1",
+        "Eyes1_Surprised_Open1",
+        "Eyes1_Uncomfortable_Open1",
+        "Eyes2_Angry_Closed1",
+        "Eyes2_Angry_Open1",
+        "Eyes2_Cry_Closed1",
+        "Eyes2_Cry_Closed2",
+        "Eyes2_Cry_Closed3",
+        "Eyes2_Downcast_Open1",
+        "Eyes2_Fearful_Open1",
+        "Eyes2_Flushed_Closed1",
+        "Eyes2_Normal_Open1",
+        "Eyes2_Normal_Open2",
+        "Eyes2_Normal_Open3",
+        "Eyes2_Pensive_Open1",
+        "Eyes2_Pensive_Open2",
+        "Eyes2_Smile_Closed1",
+        "Eyes2_Surprised_Open1",
+        "Eyes2_Uncomfortable_Open1",
+        "Fearful",
+        "Fearful1",
+        "Flushed2",
+        "Flushed1",
+        "Flushed",
+        "Fearful2",
+        "Head1",
+        "Head2",
+        "Mouth1_Angry_Closed1",
+        "Mouth1_Angry_Open1",
+        "Mouth1_Angry_Open2",
+        "Mouth1_Cry_Open1",
+        "Mouth1_Fearful_Open1",
+        "Mouth1_Flushed_Closed1",
+        "Mouth1_Normal_Closed1",
+        "Mouth1_Normal_Open1",
+        "Mouth1_Normal_Open3",
+        "Mouth1_Normal_Open2",
+        "Mouth1_Pensive_Closed1",
+        "Mouth1_Smile_Closed1",
+        "Mouth1_Surprised_Open1",
+        "Mouth1_Surprised_Open2",
+        "Mouth2_Angry_Closed1",
+        "Mouth2_Angry_Open1",
+        "Mouth2_Angry_Open2",
+        "Mouth2_Cry_Open1",
+        "Mouth2_Fearful_Open1",
+        "Mouth2_Flushed_Closed1",
+        "Mouth2_Normal_Closed1",
+        "Mouth2_Normal_Open1",
+        "Mouth2_Normal_Open2",
+        "Mouth2_Normal_Open3",
+        "Mouth2_Smile_Closed1",
+        "Mouth2_Pensive_Closed1",
+        "Mouth2_Surprised_Open1",
+        "Mouth2_Surprised_Open2",
+        "Normal2",
+        "Pale1_1",
+        "Pale1_Off",
+        "Pensive1",
+        "Pensive",
+        "Pale2_1",
+        "Pensive2",
+        "Smile",
+        "Pale2_Off",
+        "Smile1",
+        "Surprised2",
+        "Smile2",
+        "Sweat1_1",
+        "Surprised",
+        "Sweat1_Off",
+        "Surprised1",
+        "Sweat2_1",
+        "Sweat2_Off"
+      ],
+      "name": "Meruru"
+    },
+    {
+      "id": "CreatureMeruru",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureMeruru"
+    },
+    {
+      "id": "Sherry",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL11",
+        "ArmL10",
+        "ArmL2",
+        "ArmL14",
+        "ArmL13",
+        "ArmL12",
+        "ArmL3",
+        "ArmL4",
+        "ArmL5",
+        "ArmL6",
+        "ArmL7",
+        "ArmL8",
+        "ArmL9",
+        "ArmR10",
+        "ArmR11",
+        "ArmR12",
+        "ArmR13",
+        "ArmR14",
+        "ArmR15",
+        "ArmR16",
+        "ArmR17",
+        "ArmR18",
+        "ArmR19",
+        "ArmR2",
+        "ArmR3",
+        "ArmR4",
+        "ArmR5",
+        "ArmR9",
+        "ArmR8",
+        "ArmR7",
+        "ArmR6",
+        "Cheeks-Flushed",
+        "Cheeks-Normal",
+        "Cheeks-Off",
+        "Cry",
+        "Cry1",
+        "Fearful",
+        "Fearful1",
+        "Flushed1",
+        "Flushed",
+        "Normal1",
+        "Pale-1",
+        "Pale-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Sweat-1",
+        "Surprised1",
+        "Surprised",
+        "Smile1",
+        "Sweat-Off"
+      ],
+      "name": "Sherry"
+    },
+    {
+      "id": "AnAn",
+      "type": "Characters",
+      "appearances": [
+        "ArmR1",
+        "ArmL1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL10",
+        "ArmL6",
+        "ArmL11",
+        "ArmL5",
+        "ArmL4",
+        "ArmL3",
+        "ArmL2",
+        "ArmL7",
+        "ArmL8",
+        "ArmL9",
+        "ArmR-Option-Off",
+        "ArmR1-Option-1",
+        "ArmR1-Option-2",
+        "ArmR1-Option-All",
+        "ArmR2",
+        "ArmR2-Option",
+        "ArmR3",
+        "ArmR4",
+        "ArmR5",
+        "ArmR6",
+        "ArmR7",
+        "Cheeks-Off",
+        "Cheeks-Flushed",
+        "Arms2",
+        "Arms1",
+        "Cry",
+        "Cry1",
+        "Fearful",
+        "Fearful1",
+        "Pale-1",
+        "Normal1",
+        "Flushed1",
+        "Flushed",
+        "Pale-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Sweat-1",
+        "Surprised1",
+        "Surprised",
+        "Smile1",
+        "Sweat-Off"
+      ],
+      "name": "AnAn"
+    },
+    {
+      "id": "Leia",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL10",
+        "ArmL2",
+        "ArmL3",
+        "ArmL4",
+        "ArmL5",
+        "ArmL6",
+        "ArmL7",
+        "ArmL8",
+        "ArmL9",
+        "ArmR10",
+        "ArmR2",
+        "ArmR3",
+        "ArmR4",
+        "ArmR5",
+        "ArmR6",
+        "ArmR7",
+        "ArmR8",
+        "ArmR9",
+        "Arms",
+        "Cheeks-Flushed",
+        "Cheeks-Normal",
+        "Cheeks-Off",
+        "Cry",
+        "Cry1",
+        "Fearful",
+        "Fearful1",
+        "Flushed",
+        "Flushed1",
+        "Normal1",
+        "Pale-1",
+        "Pale-2",
+        "Pale-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Smile1",
+        "Surprised",
+        "Surprised1",
+        "Sweat-1",
+        "Sweat-Off"
+      ],
+      "name": "Leia"
+    },
+    {
+      "id": "Coco",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL10",
+        "ArmL11",
+        "ArmL3",
+        "ArmL2",
+        "ArmL4",
+        "ArmL5",
+        "ArmL6",
+        "ArmR10",
+        "ArmL9",
+        "ArmL8",
+        "ArmL7",
+        "ArmR11",
+        "ArmR12",
+        "ArmR13",
+        "ArmR2",
+        "ArmR7",
+        "ArmR6",
+        "ArmR5",
+        "ArmR4",
+        "ArmR3",
+        "ArmR8",
+        "ArmR9",
+        "Cheeks-Flushed",
+        "Cheeks-Normal",
+        "Cheeks-Off",
+        "Cry1",
+        "Cry",
+        "Fearful",
+        "Fearful1",
+        "Flushed",
+        "Flushed1",
+        "Normal1",
+        "Pale-1",
+        "Pale-2",
+        "Pale-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Smile1",
+        "Surprised",
+        "Surprised1",
+        "Sweat-1",
+        "Sweat-Off"
+      ],
+      "name": "Coco"
+    },
+    {
+      "id": "Miria",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "ArmL4",
+        "ArmL5",
+        "Angry1",
+        "ArmL6",
+        "ArmL2",
+        "ArmL7",
+        "ArmL8",
+        "ArmL3",
+        "ArmR10",
+        "ArmR6",
+        "ArmR5",
+        "ArmR2",
+        "ArmR7",
+        "ArmR3",
+        "ArmR8",
+        "ArmR4",
+        "ArmR9",
+        "Cheeks-Flushed",
+        "Cry",
+        "Cry1",
+        "Cheeks-Normal",
+        "Fearful",
+        "Fearful1",
+        "Cheeks-Off",
+        "Flushed",
+        "Pale-2",
+        "Pale-Off",
+        "Flushed1",
+        "Normal1",
+        "Pensive",
+        "Pensive1",
+        "Pale-1",
+        "Smile",
+        "Sweat-1",
+        "Smile1",
+        "Sweat-Off",
+        "Surprised",
+        "Surprised1"
+      ],
+      "name": "Miria"
+    },
+    {
+      "id": "Margo",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL4",
+        "ArmL5",
+        "ArmL2",
+        "ArmR2",
+        "ArmR3",
+        "ArmL3",
+        "ArmR4",
+        "Cheeks-Flushed",
+        "ArmR5",
+        "Cheeks-Normal",
+        "ArmR6",
+        "ArmR7",
+        "Cheeks-Off",
+        "Cry",
+        "Flushed",
+        "Cry1",
+        "Flushed1",
+        "Fearful",
+        "Normal1",
+        "Fearful1",
+        "Pale-1",
+        "Smile1",
+        "Pale-Off",
+        "Pensive",
+        "Surprised",
+        "Surprised1",
+        "Pensive1",
+        "Smile",
+        "Sweat-1",
+        "Sweat-Off"
+      ],
+      "name": "Margo"
+    },
+    {
+      "id": "Noah",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "ArmL4",
+        "ArmL5",
+        "Angry1",
+        "ArmL2",
+        "ArmR2",
+        "ArmR3",
+        "ArmL3",
+        "ArmR4",
+        "Cheeks-Normal",
+        "ArmR5",
+        "Cheeks-Off",
+        "ArmR6",
+        "Cheeks-Flushed",
+        "Cry",
+        "Fearful",
+        "Cry1",
+        "Fearful1",
+        "Flushed",
+        "Flushed1",
+        "Normal1",
+        "Pale-1",
+        "Pale-Off",
+        "Smile1",
+        "Smile",
+        "Pensive1",
+        "Pensive",
+        "Surprised",
+        "Surprised1",
+        "Sweat-1",
+        "Sweat-Off"
+      ],
+      "name": "Noah"
+    },
+    {
+      "id": "Nanoka",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Normal1",
+        "Angry",
+        "ArmL2",
+        "ArmL3",
+        "Angry1",
+        "ArmL4",
+        "ArmL10",
+        "ArmL5",
+        "ArmL11",
+        "ArmL6",
+        "ArmL7",
+        "ArmR3",
+        "ArmR4",
+        "ArmL8",
+        "ArmL9",
+        "ArmR5",
+        "Arms1",
+        "ArmR2",
+        "ArmR6",
+        "Arms2",
+        "Cheeks1_Normal",
+        "Arms3",
+        "Cheeks1_Off",
+        "Arms4",
+        "Cry",
+        "Cheeks1_Flushed",
+        "Cry1",
+        "Default",
+        "Eyes1_Angry_Open1",
+        "Eyes1_Angry_Closed1",
+        "Eyes1_Confused_Open1",
+        "Eyes1_Cry_Open1",
+        "Eyes1_Fearful_Open1",
+        "Eyes1_Fearful_Open2",
+        "Eyes1_Flushed_Open1",
+        "Eyes1_Neutral_Open1",
+        "Eyes1_Normal_Closed1",
+        "Eyes1_Normal_Closed2",
+        "Eyes1_Normal_Open1",
+        "Eyes1_Normal_Open2",
+        "Eyes1_Normal_Open3",
+        "Eyes1_Normal_Open4",
+        "Eyes1_Normal_Open5",
+        "Eyes1_Pensive_Open1",
+        "Eyes1_Rage_Open1",
+        "Eyes1_Surprised_Open1",
+        "Eyes1_Tearful_Open1",
+        "Eyes1_Uncomfortable_Open1",
+        "Flushed",
+        "Flushed1",
+        "Mouth1_Angry_Closed1",
+        "Fearful",
+        "Fearful1",
+        "Mouth1_Angry_Closed2",
+        "Mouth1_Cry_Closed1",
+        "Mouth1_Fearful_Open1",
+        "Mouth1_Angry_Open1",
+        "Mouth1_Flushed_Closed1",
+        "Mouth1_Normal_Closed1",
+        "Mouth1_Normal_Open1",
+        "Mouth1_Normal_Open2",
+        "Mouth1_Pensive_Closed1",
+        "Mouth1_Smile_Closed1",
+        "Mouth1_Smile_Open1",
+        "Mouth1_Surprised_Open1",
+        "OptionB_Body1",
+        "OptionB_Off",
+        "Pale1_1",
+        "Pensive1",
+        "Pensive",
+        "Pale1_Off",
+        "Pale1_2",
+        "Smile",
+        "Smile1",
+        "Surprised",
+        "Surprised1",
+        "Sweat1_Off",
+        "Sweat1_1"
+      ],
+      "name": "Nanoka"
+    },
+    {
+      "id": "Alisa",
+      "type": "Characters",
+      "appearances": [
+        "ArmL1",
+        "ArmR1",
+        "Default",
+        "Angry",
+        "Angry1",
+        "ArmL10",
+        "ArmL11",
+        "ArmL2",
+        "ArmL3",
+        "ArmL4",
+        "ArmL5",
+        "ArmL6",
+        "ArmL7",
+        "ArmL8",
+        "ArmL9",
+        "ArmR2",
+        "ArmR3",
+        "ArmR4",
+        "ArmR5",
+        "ArmR6",
+        "ArmR7",
+        "ArmR8",
+        "ArmR9",
+        "Arms1",
+        "Cheeks-Flushed",
+        "Cheeks-Normal",
+        "Cheeks-Off",
+        "Cry",
+        "Cry1",
+        "Fearful",
+        "Fearful1",
+        "Flushed",
+        "Flushed1",
+        "Normal1",
+        "Option-ArmL-11",
+        "Option-ArmL-Off",
+        "Pale-1",
+        "Pale-Off",
+        "Pensive",
+        "Pensive1",
+        "Smile",
+        "Smile1",
+        "Surprised",
+        "Sweat-Off",
+        "Sweat-1",
+        "Surprised1"
+      ],
+      "name": "Alisa"
+    },
+    {
+      "id": "CreatureHanna",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureHanna"
+    },
+    {
+      "id": "CreatureSherry",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureSherry"
+    },
+    {
+      "id": "CreatureAnAn",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureAnAn"
+    },
+    {
+      "id": "CreatureLeia",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureLeia"
+    },
+    {
+      "id": "CreatureCoco",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureCoco"
+    },
+    {
+      "id": "CreatureMiria",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureMiria"
+    },
+    {
+      "id": "CreatureMargo",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureMargo"
+    },
+    {
+      "id": "CreatureNoah",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureNoah"
+    },
+    {
+      "id": "CreatureNanoka",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureNanoka"
+    },
+    {
+      "id": "CreatureAlisa",
+      "type": "Characters",
+      "appearances": ["Default"],
+      "name": "CreatureAlisa"
+    },
+    {
+      "id": "Warden",
+      "type": "Characters",
+      "appearances": ["4"],
+      "name": "Warden"
+    },
+    {
+      "id": "Jailer",
+      "type": "Characters",
+      "appearances": ["4", "B", "C"],
+      "name": "Jailer"
+    },
+    { "id": "ButtonList", "type": "ChoiceHandlers", "appearances": [] },
+    { "id": "ButtonArea", "type": "ChoiceHandlers", "appearances": [] },
+    { "id": "ChatReply", "type": "ChoiceHandlers", "appearances": [] },
+    {
+      "id": "MainBackground",
+      "type": "Backgrounds",
+      "appearances": []
+    },
+    {
+      "id": "Stills",
+      "type": "Backgrounds",
+      "appearances": [],
+      "name": "Stills (CG Layer)"
+    },
+    {
+      "id": "Transparent",
+      "type": "Backgrounds",
+      "name": "Transparent Background",
+      "documentation": {
+        "summary": "[Functional] A completely transparent background, often used with dissolve transitions on the Overlay layer."
+      }
+    },
+    {
+      "id": "SolidColor",
+      "type": "Backgrounds",
+      "name": "Solid Color Background",
+      "documentation": {
+        "summary": "[Functional] A solid color background. Its color is controlled by the 'tint' parameter. Essential for fade-in/fade-out effects on the Overlay layer."
+      }
+    },
+    {
+      "id": "Grid_1",
+      "type": "Backgrounds",
+      "name": "Grid Background 1",
+      "documentation": {
+        "summary": "[Functional] A grid-patterned background, likely for special UI or debug screens."
+      }
+    },
+    {
+      "id": "Normal",
+      "type": "TextPrinters",
+      "appearances": ["Stream", "Default", "Simple"],
+      "name": "Normal Text Printer"
+    },
+    {
+      "id": "Debate",
+      "type": "TextPrinters",
+      "appearances": [],
+      "name": "Debate Text Printer"
+    }
+  ],
+  "commandGroups": [
+    {
+      "id": "Actors",
+      "description": "Character and backgrounds",
+      "icon": "MasksTheaterDuo:Yellow"
+    },
+    {
+      "id": "Text",
+      "description": "Text processing and visualization",
+      "icon": "TextDuo:Blue"
+    },
+    {
+      "id": "Playback",
+      "description": "Script playback and navigation",
+      "icon": "PlayPauseDuo:Green"
+    },
+    {
+      "id": "Branching",
+      "description": "Conditional flow and choices",
+      "icon": "Split:Purple"
+    },
+    {
+      "id": "Visuals",
+      "description": "Visual effects, camera and media",
+      "icon": "SparklesDuo:Red"
+    },
+    {
+      "id": "Audio",
+      "description": "Music, sound effects and voice",
+      "icon": "ListMusicDuo:Aqua"
+    },
+    {
+      "id": "UI",
+      "description": "User interface and interaction",
+      "icon": "Subtitles:Pink"
+    },
+    {
+      "id": "Trial",
+      "description": "Trial-specific commands",
+      "icon": "Gavel:Red"
+    },
+    {
+      "id": "WitchBook",
+      "description": "Witch book related commands",
+      "icon": "Book:Brown"
+    }
+  ],
+  "commands": [
+    {
+      "id": "ModifyCharacter",
+      "alias": "char",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Modifies a character actor, supporting both 2D (screen space) and 3D (world space) positioning.",
+        "remarks": "This is the primary command for controlling characters.\n\n- Use `pos` for standard 2D visual novel scenes (percentages).\n- Use `Position`, `Rotation`, and `Scale` for precise control in 3D environments like the courtroom.",
+        "examples": [
+          "; Show Alisa in a 2D scene, centered horizontally",
+          "@char Alisa.Smile1 pos:50",
+          "",
+          "; Place CreatureHiro in a 3D scene with specific world coordinates, rotation, and scale",
+          "@char CreatureHiro.2 Position:1.5,0,-2.3 Rotation:,180,0 Scale:0.8,0.8,0.8"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "IdAndAppearance",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 2,
+          "valueType": 0,
+          "valueContext": [
+            { "type": 4, "subType": "Characters" },
+            { "type": 5 }
+          ],
+          "documentation": {
+            "summary": "ID of the character, optionally followed by an appearance (e.g., `Alisa.Smile1`)."
+          },
+          "label": "idAndAppearance",
+          "typeLabel": "named string"
+        },
+        {
+          "id": "ScreenPosition",
+          "alias": "pos",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Position on the 2D screen in percentages (X,Y,Z). E.g., `50,50,0` is the center. Z-axis controls render order."
+          },
+          "label": "pos",
+          "typeLabel": "decimal list"
+        },
+
+        {
+          "id": "WorldPosition",
+          "alias": "Position",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Position in 3D world space (X,Y,Z). Used for scenes like the courtroom. Leave a value blank to keep the current axis position."
+          },
+          "label": "position",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "WorldRotation",
+          "alias": "Rotation",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Rotation in 3D world space as Euler angles (X,Y,Z)."
+          },
+          "label": "rotation",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "WorldScale",
+          "alias": "Scale",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Scale in 3D world space. Can be a uniform scale (e.g., `1.2`) or per-axis (e.g., `1,1.2,1`)."
+          },
+          "label": "scale",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Visible",
+          "alias": "visible",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "The visibility status to set for the character."
+          },
+          "label": "visible",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "TintColor",
+          "alias": "tint",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 6 }],
+          "documentation": {
+            "summary": "The tint color to apply to the character sprite."
+          },
+          "label": "tint",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the animation (move, scale, rotate, tint) in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "SubId",
+          "alias": "SubId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "[Custom] A sub-identifier to create a unique actor instance, used for layering (e.g., `Alisa-Front`)."
+          },
+          "label": "subId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Lazy",
+          "alias": "Lazy",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "[Custom] When enabled, an already-running animation will continue from its current state to the new target. Behavior is engine-defined."
+          },
+          "label": "lazy",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "char"
+    },
+    {
+      "id": "ModifyBackground",
+      "alias": "back",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Modifies a background actor. Can be used to show, hide, or transition backgrounds.",
+        "remarks": "The nameless parameter can specify both an appearance and an optional transition, separated by a dot (eg, `CityDay.DropFade`).",
+        "examples": [
+          "; Set 'CityDay' as the background with a default crossfade",
+          "@back CityDay",
+          "; Transition to 'CityNight' using the 'Pixelate' effect over 2 seconds",
+          "@back CityNight.Pixelate time:2",
+          "; Tint the current background red",
+          "@back tint:#FF0000"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "AppearanceAndTransition",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 2,
+          "valueType": 0,
+          "valueContext": [
+            { "type": 2, "subType": "Backgrounds" },
+            { "type": 1, "subType": "TransitionType" }
+          ],
+          "documentation": {
+            "summary": "Appearance of the background and an optional transition effect (eg, `MyBackground.MyTransition`)."
+          },
+          "label": "appearanceAndTransition",
+          "typeLabel": "named string"
+        },
+        {
+          "id": "Id",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Backgrounds" }],
+          "documentation": {
+            "summary": "ID of the background actor to modify. Use this for more explicit control."
+          },
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Transition",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "TransitionType" }],
+          "documentation": { "summary": "The transition effect to use." },
+          "label": "transition",
+          "typeLabel": "string"
+        },
+        {
+          "id": "SubId",
+          "alias": "SubId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "Custom sub-identifier for the background actor."
+          },
+          "label": "subId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ScenePosition",
+          "alias": "pos",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Position on the scene in percentages (X,Y,Z). Eg, `50,50,0` is the center."
+          },
+          "label": "pos",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "TintColor",
+          "alias": "tint",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 6 }],
+          "documentation": { "summary": "The tint color to apply." },
+          "label": "tint",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Scale",
+          "alias": "Scale",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "scale",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Rotation",
+          "alias": "Rotation",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "label": "rotation",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "EasingTypeName",
+          "alias": "easing",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "EasingType" }],
+          "documentation": {
+            "summary": "The easing function to use for the animation."
+          },
+          "label": "easing",
+          "typeLabel": "string"
+        },
+        {
+          "id": "DissolveTexturePath",
+          "alias": "dissolve",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "dissolve",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Match",
+          "alias": "match",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Custom match flag for background state."
+          },
+          "label": "match",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Visible",
+          "alias": "Visible",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "visible",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Lazy",
+          "alias": "Lazy",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "[Custom] Controls the execution flow, possibly related to waiting for the command to complete."
+          },
+          "label": "lazy",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "back"
+    },
+    {
+      "id": "PrintText",
+      "alias": "print",
+      "group": "Text",
+      "localizable": true,
+      "documentation": {
+        "summary": "Prints (reveals over time) a specified text message using a text printer actor.",
+        "remarks": "This command is used under the hood for generic text lines. For example, `Ema: Hello!` is automatically parsed as `@print \"Hello!\" author:Ema`.",
+        "examples": [
+          "@print \"This is a simple message.\"",
+          "@print \"This message is from Ema.\" author:Ema",
+          "@print \"This message reveals slowly.\" speed:0.5"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Text",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "localizable": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The text message to print. Wrap in double quotes if it contains spaces."
+          },
+          "label": "text",
+          "typeLabel": "string"
+        },
+        {
+          "id": "AuthorId",
+          "alias": "author",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "ID of the character actor to be associated with the message."
+          },
+          "label": "author",
+          "typeLabel": "string"
+        },
+        {
+          "id": "WaitInput",
+          "alias": "waitInput",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for user input (like a click) after the text is fully revealed."
+          },
+          "label": "waitInput",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether the script player should wait for this command to finish before executing the next one."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "RevealSpeed",
+          "alias": "speed",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "A multiplier for the text reveal speed. 1 is default, 0.5 is half speed, 2 is double speed."
+          },
+          "label": "speed",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "print"
+    },
+    {
+      "id": "HideAllActors",
+      "alias": "hideAll",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Hides all actors on the scene (characters, backgrounds, text printers, choice handlers, etc).",
+        "examples": [
+          "; Hide everything instantly",
+          "@hideAll time:0",
+          "; Fade out and hide everything over 2 seconds",
+          "@hideAll time:2"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "defaultValue": "0.35",
+          "documentation": {
+            "summary": "Duration of the hide animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the hide animation to complete."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "hideAll"
+    },
+    {
+      "id": "SetCustomVariable",
+      "alias": "set",
+      "group": "Branching",
+      "localizable": false,
+      "documentation": {
+        "summary": "Assigns the result of a script expression to a custom variable.",
+        "remarks": "Used for all variable manipulation. If a variable with the specified name doesn't exist, it will be created.\n- Variables starting with `g_` are global and saved across game sessions.\n- Other variables are local to the current playthrough.\n- Use quotes for expressions containing spaces.",
+        "examples": [
+          "; Simple assignment",
+          "@set score=10",
+          "; String assignment",
+          "@set characterName=\"Yuki\"",
+          "; Using a function",
+          "@set \"g_gameProgress = max(12, g_gameProgress)\"",
+          "; Incrementing a variable",
+          "@set score+=1",
+          "; or",
+          "@set score++"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Expression",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The assignment expression to execute (e.g., `myVar=10`, `myVar++`, `myVar=\"Hello\"`)."
+          },
+          "label": "expression",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "set"
+    },
+    {
+      "id": "HideAllCharacters",
+      "alias": "hideChars",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Hides all visible character actors on the scene.",
+        "examples": [
+          "; Make all characters fade out and disappear.",
+          "@hideChars"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "defaultValue": "0.35",
+          "documentation": {
+            "summary": "Duration of the hide animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the hide animation to complete."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Lazy",
+          "alias": "Lazy",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "[Custom] Controls the execution flow, possibly related to waiting for the command to complete."
+          },
+          "label": "lazy",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "hideChars"
+    },
+    {
+      "id": "SetActorPivot",
+      "alias": "pivot",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Sets the pivot (anchor point) for an actor's rotation and scale transformations.",
+        "remarks": "The pivot determines the central point around which all `rotation` and `scale` animations occur. By default, characters often have a pivot at their bottom-center `(0.5, 0)`.\n\nThis command is crucial for creating specific animation effects:\n- **`point:0.5,0.5`**: Sets the pivot to the actor's visual center. This is essential for creating smooth, centered zoom-in effects or spinning animations.\n- **`point:0,0`**: Sets the pivot to the actor's bottom-left corner.",
+        "examples": [
+          "; Set the pivot of the 'Stills' layer to its absolute center",
+          "@pivot Stills point:0.5,0.5",
+          "",
+          "; Now, any rotation or scale animation on 'Stills' will happen around its center",
+          "@animate Stills scale:1,1.5,1 time:1,2,1 loop!"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorId",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "*" }],
+          "documentation": {
+            "summary": "The ID of the actor whose pivot is to be changed."
+          },
+          "label": "actorId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Point",
+          "alias": "point",
+          "nameless": false,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The pivot coordinates in normalized space (0,0 to 1,1). (0,0) is bottom-left, (0.5,0.5) is center."
+          },
+          "label": "point",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "pivot"
+    },
+    {
+      "id": "AnimateActor",
+      "alias": "animate",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Animates properties of one or more actors over time using keyframes.",
+        "remarks": "This is a powerful command for creating complex character movements and effects.\n\n**Keyframe System:**\n- Animatable properties (like `posX`, `scale`) accept a comma-separated string of values, representing keyframes.\n- The `time` parameter sets the duration for each animation step.\n\n**Dynamic Actor IDs:**\n- This command can target dynamically created actors, such as those using a `SubId` (e.g., `Sherry-Front`). Autocomplete may not be available for the full dynamic ID.",
+        "examples": [
+          "; Animate Hiro's horizontal position from left to right over 2 seconds.",
+          "@animate Hiro posX:0,100 time:2 wait!",
+          "",
+          "; Make Yuki repeatedly jump 3 times. This uses a custom 'multi' parameter.",
+          "@animate Yuki posY:0,10,0 multi:3 time:0.2,0.2 wait!",
+          "",
+          "; Animate multiple actors and properties in a loop.",
+          "@animate Ema,Hiro loop! scale:1,1.2,1 tint:#FFFFFF,#FF0000,#FFFFFF time:0.5,1,0.5"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorIds",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "*" }],
+          "documentation": {
+            "summary": "ID(s) of the actor(s) to animate. Can be a dynamic ID like `Sherry-Front`."
+          },
+          "label": "actorIds",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Loop",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to loop the animation indefinitely."
+          },
+          "label": "loop",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Multi",
+          "alias": "multi",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "[Custom] Number of times to repeat the animation. Ignored if `loop` is enabled."
+          },
+          "label": "multi",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Relative",
+          "alias": "Relative",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "[Custom] Whether the position values are relative to the actor's current position."
+          },
+          "label": "relative",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Appearance",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of appearance IDs to set at each keyframe."
+          },
+          "label": "appearance",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Visible",
+          "alias": "visibility",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of visibility states (true/false) to set at each keyframe."
+          },
+          "label": "visible",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ScenePositionX",
+          "alias": "posX",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of X-axis positions (0-100) for each keyframe."
+          },
+          "label": "posX",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ScenePositionY",
+          "alias": "posY",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of Y-axis positions (0-100) for each keyframe."
+          },
+          "label": "posY",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Rotation",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of Z-axis rotation degrees for each keyframe."
+          },
+          "label": "rotation",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Scale",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of uniform scale values for each keyframe."
+          },
+          "label": "scale",
+          "typeLabel": "string"
+        },
+        {
+          "id": "TintColor",
+          "alias": "tint",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of tint colors (eg, `#FF0000,white,lightblue`) for each keyframe."
+          },
+          "label": "tint",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A comma-separated list of durations (in seconds) for each animation step."
+          },
+          "label": "time",
+          "typeLabel": "string"
+        },
+        {
+          "id": "EasingTypeName",
+          "alias": "easing",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "EasingType" }],
+          "documentation": {
+            "summary": "A comma-separated list of easing functions to apply to each animation step."
+          },
+          "label": "easing",
+          "typeLabel": "string"
+        },
+        {
+          "id": "EasingPosX",
+          "alias": "easingPosX",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "EasingType" }],
+          "documentation": {
+            "summary": "[Custom] Easing functions specifically for the X-axis animation."
+          },
+          "label": "easingPosX",
+          "typeLabel": "string"
+        },
+        {
+          "id": "EasingPosY",
+          "alias": "easingPosY",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "EasingType" }],
+          "documentation": {
+            "summary": "[Custom] Easing functions specifically for the Y-axis animation."
+          },
+          "label": "easingPosY",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the animation to complete before executing the next command."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "animate"
+    },
+    {
+      "id": "EmoteJump",
+      "alias": "EmoteJump",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Play jump emote on actor. Supports speed and multi repeats."
+      },
+      "parameters": [
+        {
+          "id": "Speed",
+          "alias": "Speed",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "Speed",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Multi",
+          "alias": "multi",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "multi",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Actor",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character to perform the emote."
+          },
+          "label": "actor",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "EmoteJump"
+    },
+    {
+      "id": "EmoteJumpDouble",
+      "alias": "EmoteJumpDouble",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": { "summary": "Double jump emote." },
+      "parameters": [
+        {
+          "id": "Actor",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character to perform the emote."
+          },
+          "label": "actor",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "EmoteJumpDouble"
+    },
+    {
+      "id": "EmoteNod",
+      "alias": "EmoteNod",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": { "summary": "Nod emote." },
+      "parameters": [
+        {
+          "id": "Actor",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character to perform the emote."
+          },
+          "label": "actor",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "EmoteNod"
+    },
+    {
+      "id": "EmoteShake",
+      "alias": "EmoteShake",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": { "summary": "Shake emote." },
+      "parameters": [
+        {
+          "id": "Actor",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character to perform the emote."
+          },
+          "label": "actor",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "EmoteShake"
+    },
+    {
+      "id": "EmoteFall",
+      "alias": "EmoteFall",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": { "summary": "Fall emote." },
+      "parameters": [
+        {
+          "id": "Actor",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character to perform the emote."
+          },
+          "label": "actor",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "EmoteFall"
+    },
+    {
+      "id": "ModifyTextPrinter",
+      "alias": "printer",
+      "group": "Text",
+      "localizable": false,
+      "documentation": {
+        "summary": "Modifies a text printer actor, such as changing its appearance or making it the default.",
+        "remarks": "This command selects which text box style to use for subsequent `@print` commands or generic text lines.\n\n**Common Appearances for 'Normal' printer:**\n- `Normal.Stream`: Used for ... (e.g., continuous thought bubbles or special narration).\n- `Normal.Default`: The standard dialogue box.\n- `Normal.Simple`: A minimalist or stylized text box, often used for storybook sequences.",
+        "examples": [
+          "; Switch to the standard dialogue box",
+          "@printer Normal.Default",
+          "",
+          "; Switch to the simple, storybook style printer",
+          "@printer Normal.Simple"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "IdAndAppearance",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 2,
+          "valueType": 0,
+          "valueContext": [
+            { "type": 4, "subType": "TextPrinters" },
+            { "type": 5 }
+          ],
+          "documentation": {
+            "summary": "The ID of the printer and an optional appearance to set (e.g., `Normal.Stream`)."
+          },
+          "label": "idAndAppearance",
+          "typeLabel": "named string"
+        },
+        {
+          "id": "MakeDefault",
+          "alias": "default",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "defaultValue": "true",
+          "documentation": {
+            "summary": "Whether to make this printer the default for subsequent text commands."
+          },
+          "label": "default",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Visible",
+          "alias": "visible",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": { "summary": "Sets the visibility of the printer." },
+          "label": "visible",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "defaultValue": "0.35",
+          "documentation": {
+            "summary": "Duration of the transition animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Appearance",
+          "alias": "Appearance",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "appearance",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "printer"
+    },
+    {
+      "id": "HidePrinter",
+      "alias": "HidePrinter",
+      "group": "Text",
+      "localizable": false,
+      "documentation": {
+        "summary": "Hides a text printer actor.",
+        "examples": [
+          "; Hide the default text printer",
+          "@HidePrinter",
+          "; Hide a specific printer named 'Wide' over 0.5 seconds",
+          "@HidePrinter Wide time:0.5"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "PrinterId",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "TextPrinters" }],
+          "documentation": {
+            "summary": "The ID of the printer to hide. If omitted, hides the default printer."
+          },
+          "label": "printerId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the hide animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "HidePrinter"
+    },
+    {
+      "id": "Gosub",
+      "alias": "gosub",
+      "group": "Playback",
+      "localizable": false,
+      "branch": { "traits": 9, "switchRoots": [] },
+      "documentation": {
+        "summary": "Jumps to a subroutine at a specified path and saves the return location.",
+        "remarks": "This is used for reusable blocks of script. After the subroutine finishes, a `@return` command will bring the playback back to the line after the `@gosub` call.",
+        "examples": [
+          "; Call a common subroutine to fade out the screen",
+          "@gosub #FadeToBlack",
+          "Player: And then, everything went dark.",
+          "@stop",
+          "",
+          "# FadeToBlack",
+          "@back SolidColor tint:black time:2 wait:true",
+          "@return"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Path",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 3 }],
+          "documentation": {
+            "summary": "The path of the subroutine to call, in `ScriptName#LabelName` format."
+          },
+          "label": "path",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "gosub"
+    },
+    {
+      "id": "Return",
+      "alias": "return",
+      "group": "Playback",
+      "localizable": false,
+      "documentation": {
+        "summary": "Returns from a subroutine to the location where @gosub was called.",
+        "remarks": "This command must be used to exit a block of script that was entered via a `@gosub` command."
+      },
+      "parameters": [
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "return"
+    },
+    {
+      "id": "Stop",
+      "alias": "Stop",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Stop script execution." },
+      "parameters": [
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "Stop"
+    },
+    {
+      "id": "WaitForInput",
+      "alias": "i",
+      "group": "Playback",
+      "localizable": false,
+      "documentation": {
+        "summary": "A shortcut for `@wait i`. Holds script execution until the user activates a 'continue' input.",
+        "remarks": "This is most commonly used inside generic text lines to create pauses.",
+        "examples": ["And then...[i] the door opened."]
+      },
+      "parameters": [
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "i"
+    },
+    {
+      "id": "PlayBgm",
+      "alias": "bgm",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Plays or modifies background music (BGM), ambient sounds, or songs.",
+        "remarks": "This command handles all looping or long-form audio.\n- For BGM with an intro part, use the `intro` parameter.\n- For one-shot songs, remember to set `Loop:false`.",
+        "examples": [
+          "; Play a standard BGM loop",
+          "@bgm \"Bgm_26_1_Loop\"",
+          "; Play a BGM with an intro",
+          "@bgm \"Bgm_2_1_Loop\" intro:\"Bgm_2_1_Intro\"",
+          "; Play an ambient sound",
+          "@bgm \"Ambi_8_1\"",
+          "; Play a song once at 50% volume",
+          "@bgm \"Song_4\" Loop:false Volume:0.5"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "BgmPath",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Audio" }],
+          "documentation": {
+            "summary": "The path/ID of the main audio track to play (usually the loop part)."
+          },
+          "label": "bgmPath",
+          "typeLabel": "string"
+        },
+        {
+          "id": "IntroBgmPath",
+          "alias": "intro",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Audio" }],
+          "documentation": {
+            "summary": "The path/ID of the intro track to play once before the main track."
+          },
+          "label": "intro",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Volume",
+          "alias": "Volume",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": { "summary": "Playback volume (0.0 to 1.0)." },
+          "label": "volume",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Loop",
+          "alias": "loop",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": { "summary": "Whether to loop the main track." },
+          "label": "loop",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "FadeInDuration",
+          "alias": "fade",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the fade-in animation in seconds."
+          },
+          "label": "fade",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the parameter modification (e.g., volume change) in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "bgm"
+    },
+    {
+      "id": "StopBgm",
+      "alias": "StopBgm",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Stops a currently playing background track."
+      },
+      "parameters": [
+        {
+          "id": "BgmPath",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Audio" }],
+          "documentation": {
+            "summary": "The path/ID of the track to stop. If omitted, stops all tracks."
+          },
+          "label": "bgmPath",
+          "typeLabel": "string"
+        },
+        {
+          "id": "FadeOutDuration",
+          "alias": "fade",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the fade-out in seconds."
+          },
+          "label": "fade",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "StopBgm"
+    },
+    {
+      "id": "Voice",
+      "alias": "voice",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Play voice / se by id. Multiple calls allowed. Supports optional AuthorId."
+      },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Audio" }],
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "AuthorId",
+          "alias": "AuthorId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "label": "authorId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "voice"
+    },
+    {
+      "id": "PlayCredits",
+      "alias": "credit",
+      "group": "Credits",
+      "localizable": false,
+      "documentation": {
+        "summary": "Starts playing a pre-defined credits sequence (staff roll).",
+        "remarks": "This command typically triggers a UI overlay with scrolling text and disables most user inputs. It runs in parallel with the main script, allowing for synchronized background visuals. Must be paired with `@hideCredit`.",
+        "examples": ["@credit 1"]
+      },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The index of the credits sequence to play (e.g., for different endings)."
+          },
+          "label": "index",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "credit"
+    },
+    {
+      "id": "HideCredits",
+      "alias": "hideCredit",
+      "group": "Credits",
+      "localizable": false,
+      "documentation": {
+        "summary": "Stops the currently playing credits sequence."
+      },
+      "parameters": [],
+      "label": "hideCredit"
+    },
+    {
+      "id": "ProcessInput",
+      "alias": "ProcessInput",
+      "group": "Playback",
+      "localizable": false,
+      "documentation": {
+        "summary": "Enables, disables, or granularly configures player input processing.",
+        "remarks": "This is the master command for controlling what the player is allowed to do. Use the `set` parameter to configure individual input types. See the parameter's documentation for a full list of available input types.",
+        "examples": [
+          "; Disable all player input",
+          "@ProcessInput false",
+          "; Enable input and allow only dialogue continuation and skipping",
+          "@ProcessInput true set:Continue.true,Skip.true,Rollback.false"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "InputEnabled",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "The master switch. `true` to enable processing, `false` to disable."
+          },
+          "label": "inputEnabled",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "SetEnabled",
+          "alias": "set",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 3,
+          "valueType": 3,
+          "valueContext": [{ "type": 1, "subType": "InputTypes" }],
+          "documentation": {
+            "summary": "A comma-separated list of named booleans to configure individual inputs.\n\n**Available Input Types:**\n- `Continue`: Proceed to the next command (click, spacebar).\n- `Pause`: Toggle the pause menu (Esc).\n- `Skip`: Enable skip mode.\n- `ToggleSkip`: Toggle skip mode via a key.\n- `SkipMovie`: Allow skipping movies.\n- `AutoPlay`: Toggle auto-play mode.\n- `ToggleUI`: Allow toggling the UI visibility.\n- `ShowBacklog`: Allow showing the text backlog.\n- `Rollback`: Allow rolling back the script.",
+            "examples": ["set:Continue.true,Rollback.false"]
+          },
+          "label": "set",
+          "typeLabel": "named boolean list"
+        }
+      ],
+      "label": "ProcessInput"
+    },
+    {
+      "id": "ResetText",
+      "alias": "ResetText",
+      "group": "Text",
+      "localizable": false,
+      "documentation": {
+        "summary": "Instantly clears all text content from a specified text printer.",
+        "remarks": "This command acts as a 'clean-up' tool for text boxes. It's crucial to use it during scene transitions or before hiding a printer to prevent old text from briefly reappearing (a 'ghost text' visual bug) the next time the printer is shown.\n\nThink of it as wiping a whiteboard clean before the next scene begins.",
+        "examples": [
+          "; Before a scene transition, clear the default printer.",
+          "Player: ...And that's what happened.",
+          "@ResetText",
+          "@goto NextScene",
+          "",
+          "; In the EndDebate subroutine, clear the special 'Debate' printer.",
+          "@ResetText \"Debate\""
+        ]
+      },
+      "parameters": [
+        {
+          "id": "PrinterId",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "TextPrinters" }],
+          "documentation": {
+            "summary": "The ID of the text printer to clear. If omitted, the default printer will be cleared."
+          },
+          "label": "printerId",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "ResetText"
+    },
+    {
+      "id": "Spawn",
+      "alias": "spawn",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Instantiates a prefab, such as a special effect or a procedural shape like a mask.",
+        "remarks": "This is a powerful command for creating dynamic visual elements. Its behavior is highly dependent on the prefab being spawned and the `Params` passed to it.\n\n**Example: Creating a Masking Rectangle**\nThe `MaskingRectangle` prefab is used to create 'picture-in-picture' or 'comic panel' effects. It generates a shape that can be used with the `@mask` command.\n\n`@spawn \"MaskingRectangle\" Params:width,height,border?,softness,color`\n- `width`, `height`: The dimensions of the rectangle.\n- `border?`: (boolean) Whether to show a border.\n- `softness`: (decimal, 0-1) The feather/softness of the border. `0` is a hard edge.\n- `color`: (hex string) The color of the border, e.g., `#000000` for black.",
+        "examples": [
+          "; Spawn a rain effect",
+          "@spawn Rain",
+          "",
+          "; Spawn a masking rectangle for a picture-in-picture effect with a soft black border",
+          "@spawn SubId:\"Front\" \"MaskingRectangle\" Params:40,200,true,0.3,#000000 pos:20,50"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Path",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Spawn" }],
+          "documentation": {
+            "summary": "The resource path of the prefab to spawn (e.g., `MaskingRectangle`)."
+          },
+          "label": "path",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Params",
+          "alias": "Params",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "documentation": {
+            "summary": "A list of parameters to pass to the spawned object. The meaning of these parameters depends entirely on the prefab being spawned. See command remarks for details."
+          },
+          "label": "params",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "ScenePosition",
+          "alias": "pos",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Position on the scene in percentages (X,Y,Z)."
+          },
+          "label": "pos",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Rotation",
+          "alias": "Rotation",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": { "summary": "Rotation in Euler angles (X,Y,Z)." },
+          "label": "rotation",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Scale",
+          "alias": "Scale",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": { "summary": "Scale of the object (X,Y,Z)." },
+          "label": "scale",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the spawned object to complete its task."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "SubId",
+          "alias": "SubId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "Custom sub-identifier to create a unique actor ID (e.g., `ActorId-SubId`)."
+          },
+          "label": "subId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Match",
+          "alias": "match",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Custom match flag for the spawned object's state."
+          },
+          "label": "match",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "spawn"
+    },
+    {
+      "id": "DestroySpawned",
+      "alias": "despawn",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Destroys an object previously instantiated with the @spawn command.",
+        "remarks": "This is the counterpart to @spawn, used to clean up temporary visual elements like effects or masks. Make sure the path matches the one used in the @spawn command.",
+        "examples": [
+          "; Destroy the 'MaskingRectangle' to end the picture-in-picture effect",
+          "@despawn \"MaskingRectangle\""
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Path",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Spawn" }],
+          "documentation": {
+            "summary": "The resource path of the prefab to destroy."
+          },
+          "label": "path",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Params",
+          "alias": "Params",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "documentation": {
+            "summary": "Parameters to pass before destruction, often for fade-out animations."
+          },
+          "label": "params",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the object's destruction animation to finish."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "SubId",
+          "alias": "SubId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The sub-identifier of the specific object instance to destroy."
+          },
+          "label": "subId",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "despawn"
+    },
+    {
+      "id": "Mask",
+      "alias": "mask",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Controls masking relationships between actors.",
+        "remarks": "This command is used to create visual effects where one actor acts as a mask for others. The actors are identified by their full ID, which may include a `SubId` (eg, `ActorId-SubId`).\n\n- The first actor ID in the list typically serves as the mask.\n- Subsequent actor IDs are the actors that will be masked.",
+        "examples": [
+          "; Makes 'MainBackground-Front' act as a mask for the 'Alisa-Front' character.",
+          "@mask MainBackground-Front,Alisa-Front",
+          "",
+          "; To disable the mask, use the 'Enable' parameter.",
+          "@mask MainBackground-Front,Alisa-Front Enable:false"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorIds",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [
+            { "type": 4, "subType": "Characters" },
+            { "type": 2, "subType": "Backgrounds" }
+          ],
+          "documentation": {
+            "summary": "A comma-separated list of actor IDs to participate in the masking relationship."
+          },
+          "label": "actorIds",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Enable",
+          "alias": "Enable",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "defaultValue": "true",
+          "documentation": {
+            "summary": "Whether to enable or disable the masking effect."
+          },
+          "label": "enable",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "mask"
+    },
+    {
+      "id": "Wait",
+      "alias": "wait",
+      "group": "Playback",
+      "localizable": false,
+      "documentation": {
+        "summary": "Holds script execution for a specified condition.",
+        "remarks": "This command has three main modes for its nameless parameter:\n\n- **Seconds (decimal):** `@wait 1.5` - Waits for 1.5 seconds.\n- **Input (`i`):** `@wait i` - Waits indefinitely for the user to click or press the 'continue' key.\n- **Skippable Timer (`i` + seconds):** `@wait i5` or `@wait \"i{myVar}\"` - Waits for a maximum of 5 seconds, but allows the user to skip the wait by clicking.",
+        "examples": [
+          "@sfx Thunder",
+          "@wait 0.5",
+          "@shake Camera",
+          "",
+          "Player: ...[i] And then I saw it.",
+          "",
+          "You have 5 seconds to decide![wait i5]"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "WaitMode",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The wait condition: a number for seconds, `i` for input, or `i` followed by a number for a skippable timer."
+          },
+          "label": "waitMode",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "wait"
+    },
+    {
+      "id": "TrialMode",
+      "alias": "trialMode",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Enables or disables the 'Trial Mode'.",
+        "remarks": "This is a master switch that likely changes global game states, UI layouts, and available commands to fit the courtroom gameplay.",
+        "examples": [
+          "; Entering the courtroom sequence",
+          "@trialMode true",
+          "; Leaving the courtroom",
+          "@trialMode false"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Enabled",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Set to `true` to enable Trial Mode, `false` to disable."
+          },
+          "label": "enabled",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "trialMode"
+    },
+    {
+      "id": "AddChoice",
+      "alias": "choice",
+      "group": "Branching",
+      "localizable": true,
+      "nest": { "required": false },
+      "branch": { "traits": 7, "switchRoots": [] },
+      "documentation": {
+        "summary": "Adds an interactive choice button.",
+        "remarks": "Use `@StopForChoice` after adding all choices to pause the script and wait for the player's selection.",
+        "examples": ["@choice \"Investigate\" goto:.InvestigateDesk"]
+      },
+      "parameters": [
+        {
+          "id": "ChoiceSummary",
+          "alias": "text",
+          "nameless": true,
+          "required": false,
+          "localizable": true,
+          "documentation": {
+            "summary": "Text to display on the choice button."
+          },
+          "label": "text",
+          "typeLabel": "string"
+        },
+        {
+          "id": "GotoPath",
+          "alias": "goto",
+          "nameless": false,
+          "required": false,
+          "valueContext": [{ "type": 3 }],
+          "documentation": {
+            "summary": "Path to a script or label to jump to when selected."
+          },
+          "label": "goto",
+          "typeLabel": "string"
+        },
+        {
+          "id": "SetExpression",
+          "alias": "set",
+          "nameless": false,
+          "required": false,
+          "valueContext": [{ "type": 0, "subType": "Assignment" }],
+          "documentation": {
+            "summary": "A script expression to execute when selected."
+          },
+          "label": "set",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ChoiceHandlerId",
+          "alias": "handler",
+          "nameless": false,
+          "required": false,
+          "valueContext": [{ "type": 4, "subType": "ChoiceHandlers" }],
+          "documentation": { "summary": "ID of the choice handler UI to use." },
+          "label": "handler",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ChoiceButtonId",
+          "alias": "button",
+          "nameless": false,
+          "required": false,
+          "documentation": {
+            "summary": "ID of the choice button prefab to use."
+          },
+          "label": "button",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Lock",
+          "alias": "disabled",
+          "nameless": false,
+          "required": false,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether the choice should be disabled."
+          },
+          "label": "lock",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "choice"
+    },
+    {
+      "id": "StopForChoice",
+      "alias": "StopForChoice",
+      "group": "Branching",
+      "localizable": false,
+      "documentation": {
+        "summary": "Pauses the script execution and waits for the player to select one of the active choices.",
+        "remarks": "This command is the essential counterpart to `@choice`. After you have added one or more choices to the screen, you MUST use this command to actually stop the script and allow the player to interact with them.\n\nFailing to use this command will result in the script continuing to run, potentially leading to timed-out choices or unintended story progression.",
+        "examples": [
+          "What should I do now?",
+          "@choice \"Investigate\" goto:.SceneA",
+          "@choice \"Leave\" goto:.SceneB",
+          "@StopForChoice"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Clear",
+          "alias": "Clear",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to automatically clear all choices from the screen after one is selected."
+          },
+          "label": "clear",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "StopForChoice"
+    },
+    {
+      "id": "ShowUI",
+      "alias": "ShowUI",
+      "group": "UI",
+      "localizable": false,
+      "documentation": {
+        "summary": "Makes one or more UI elements visible.",
+        "remarks": "Use a comma-separated list to show multiple UI elements simultaneously. The names correspond to the UI prefabs in the project.",
+        "examples": [
+          "; Show the execution button",
+          "@ShowUI ExecutionButton",
+          "; After a debate, show the main control panel again",
+          "@ShowUI ControlPanel"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "UINames",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "UI" }],
+          "documentation": {
+            "summary": "A comma-separated list of UI element names to show."
+          },
+          "label": "uiNames",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the show/fade-in animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the show animation to complete."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "ShowUI"
+    },
+    {
+      "id": "HideUI",
+      "alias": "HideUI",
+      "group": "UI",
+      "localizable": false,
+      "documentation": {
+        "summary": "Makes one or more UI elements invisible.",
+        "remarks": "Use a comma-separated list to hide multiple UI elements simultaneously.",
+        "examples": [
+          "; Before showing a special button, hide the default controls",
+          "@HideUI ControlPanel,AutoToggle,WitchBookButtonUI",
+          "; Hide the debate UI after it concludes",
+          "@HideUI DebateUI"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "UINames",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "UI" }],
+          "documentation": {
+            "summary": "A comma-separated list of UI element names to hide."
+          },
+          "label": "uiNames",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the hide/fade-out animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the hide animation to complete."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "HideUI"
+    },
+    {
+      "id": "AudioPlayer",
+      "alias": "audioPlayer",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Play audio using generic audio player id/template. Supports optional ID."
+      },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "id",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "audioPlayer"
+    },
+    {
+      "id": "Goto",
+      "alias": "goto",
+      "group": "Playback",
+      "localizable": false,
+      "branch": { "traits": 1, "switchRoots": [] },
+      "documentation": {
+        "summary": "Navigates the script playback to a specified path.",
+        "remarks": "The path can be a script name, a label within the current script, or a combination of both.\n- `ScriptName`: Starts playing the specified script from the beginning.\n- `#LabelName`: Jumps to the specified label within the current script.\n- `ScriptName#LabelName`: Jumps to a specific label within another script.",
+        "examples": [
+          "; Jumps to the 'Epilogue' label in the current script",
+          "@goto #Epilogue",
+          "",
+          "; Loads and plays the 'Chapter2' script from the beginning",
+          "@goto Chapter2"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Path",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 3 }],
+          "documentation": {
+            "summary": "The path to navigate to, in `ScriptName#LabelName` format."
+          },
+          "label": "path",
+          "typeLabel": "string"
+        },
+
+        {
+          "id": "ResetState",
+          "alias": "reset",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "[Custom] Controls whether to reset engine services state before loading a new script."
+          },
+          "label": "reset",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Soft",
+          "alias": "soft",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "[Custom] A flag for a 'soft' transition, behavior is engine-defined."
+          },
+          "label": "soft",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "goto"
+    },
+    {
+      "id": "ShowMattes",
+      "alias": "ShowMattes",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Show matte overlays. Supports Width, posZ, tint, time, easing and SubId."
+      },
+      "parameters": [
+        {
+          "id": "Width",
+          "alias": "Width",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "label": "Width",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "PosZ",
+          "alias": "posZ",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "posZ",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Tint",
+          "alias": "tint",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "tint",
+          "typeLabel": "hex color"
+        },
+        {
+          "id": "Time",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Easing",
+          "alias": "easing",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "easing",
+          "typeLabel": "string"
+        },
+        {
+          "id": "SubId",
+          "alias": "SubId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "subId",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "ShowMattes"
+    },
+    {
+      "id": "HideMattes",
+      "alias": "HideMattes",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Hide matte overlays. Supports SubId and time."
+      },
+      "parameters": [
+        {
+          "id": "Time",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "SubId",
+          "alias": "SubId",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "subId",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "HideMattes"
+    },
+    {
+      "id": "SetFlag",
+      "alias": "setFlag",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": {
+        "summary": "Sets a specific bit in a bitmask variable to 1.",
+        "remarks": "This is a custom command for bitwise operations, primarily used with the map system to track visited locations.\nThe nameless parameter is the bit index (0-based) to set.",
+        "examples": [
+          "; If the player chose 'Library', which is the 2nd item (index 1) in the @map list...",
+          "@setFlag 1 var:\"chosenAreaFlag\""
+        ]
+      },
+      "parameters": [
+        {
+          "id": "BitIndex",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The 0-based index of the bit to set to 1."
+          },
+          "label": "bitIndex",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "VariableName",
+          "alias": "var",
+          "nameless": false,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The name of the bitmask variable to modify."
+          },
+          "label": "variableName",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "setFlag"
+    },
+    {
+      "id": "QuickSave",
+      "alias": "QuickSave",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Quick save to slot. Supports Wait flag." },
+      "parameters": [
+        {
+          "id": "Slot",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "slot",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "QuickSave"
+    },
+    {
+      "id": "ShowStageScreen",
+      "alias": "showStageScreen",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Shows a screen-space overlay or effect layer in the 3D stage.显示正交相机的场景"
+      },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "index",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "showStageScreen"
+    },
+    {
+      "id": "HideStageScreen",
+      "alias": "hideStageScreen",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Hides a screen-space overlay or effect layer in the 3D stage.隐藏正交相机的场景，展示出裁判庭的3D场景"
+      },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "index",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "hideStageScreen"
+    },
+    {
+      "id": "StageCamera",
+      "alias": "stageCamera",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Controls the properties of a 3D stage camera.",
+        "remarks": "This is the primary tool for cinematography in 3D scenes. It controls the camera's position, rotation, and field of view using 3D world space coordinates and properties.",
+        "examples": [
+          "@stageCamera 0 Height:5.5 Rotation:0,180,0 Distance:12 time:0.5"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "CameraIndex",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The index of the stage camera to control."
+          },
+          "label": "cameraIndex",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Height",
+          "alias": "Height",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The Y-axis position (height) of the camera in world space."
+          },
+          "label": "height",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Distance",
+          "alias": "Distance",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The distance of the camera from its target or pivot point."
+          },
+          "label": "distance",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Rotation",
+          "alias": "Rotation",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The rotation of the camera as Euler angles (Pitch, Yaw, Roll)."
+          },
+          "label": "rotation",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the camera movement animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Easing",
+          "alias": "easing",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "EasingType" }],
+          "documentation": {
+            "summary": "The easing function to use for the animation."
+          },
+          "label": "easing",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the camera animation to complete."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "stageCamera"
+    },
+    {
+      "id": "ShakeStageCamera",
+      "alias": "shakeStageCamera",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "[Custom] Applies complex, continuous force-based effects to the 3D stage camera.",
+        "remarks": "This is NOT a simple shake. It's a powerful physics-based effect generator for the 3D trial scene.\nUnlike `@shake \"Camera\"`, which creates short bursts of vibration, this command applies continuous forces to create long-lasting effects like magical instability, spatial distortion, or gravity shifts.",
+        "examples": [
+          "; Create a 60-second 'magic instability' effect with a high-frequency circular force",
+          "@shakeStageCamera 0 Force:0.01,-0.01,0 Frequency:600 damp:0 time:60"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "CameraIndex",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The index of the 3D stage camera to affect."
+          },
+          "label": "cameraIndex",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Force",
+          "alias": "Force",
+          "nameless": false,
+          "required": true,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The force vector (X,Y,Z) to apply to the camera."
+          },
+          "label": "force",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Frequency",
+          "alias": "Frequency",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The frequency of the force application."
+          },
+          "label": "frequency",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Damping",
+          "alias": "damp",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The damping factor. `0` means the effect does not decay over time."
+          },
+          "label": "damping",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Randomize",
+          "alias": "random",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to apply the force randomly or as a continuous, predictable effect."
+          },
+          "label": "randomize",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The total duration of the effect in seconds."
+          },
+          "label": "duration",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "shakeStageCamera"
+    },
+    {
+      "id": "CourtFire",
+      "alias": "courtFire",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": { "summary": "Enable or disable court fire VFX." },
+
+      "parameters": [
+        {
+          "id": "Enabled",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "enabled",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "courtFire"
+    },
+    {
+      "id": "SplitStageScreen",
+      "alias": "splitStageScreen",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Creates a split-screen or 'comic panel' effect on a specific stage screen.",
+        "examples": ["@splitStageScreen 0 posX:25 Roll:10 direction:\"Left\""]
+      },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "index",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "PositionX",
+          "alias": "posX",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The horizontal center of the split panel in screen percentage."
+          },
+          "label": "posX",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Roll",
+          "alias": "Roll",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The roll (Z-axis rotation) of the split panel in degrees."
+          },
+          "label": "roll",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Direction",
+          "alias": "direction",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The direction of the split effect (e.g., 'Left', 'Right')."
+          },
+          "label": "direction",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "splitStageScreen"
+    },
+    {
+      "id": "Timer",
+      "alias": "timer",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": { "summary": "Set a timer for trial sequences." },
+      "parameters": [
+        {
+          "id": "Seconds",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "seconds",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "timer"
+    },
+    {
+      "id": "Debate",
+      "alias": "debate",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Enables or disables the 'Debate' mode.",
+        "remarks": "When enabled, text is likely displayed using the special `@printDebate` command and the `DebateUI` is active.",
+        "examples": ["@debate true"]
+      },
+      "parameters": [
+        {
+          "id": "Enabled",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Set to `true` to enable Debate Mode, `false` to disable."
+          },
+          "label": "enabled",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "debate"
+    },
+    {
+      "id": "PrintDebate",
+      "alias": "printDebate",
+      "group": "Trial",
+      "localizable": true,
+      "documentation": {
+        "summary": "Displays text in the trial/debate sequence with special formatting and interactivity.",
+        "remarks": "This command allows free placement and rotation of text on screen.\nIt supports a custom `<link>` rich text tag to create clickable keywords for objections.\n\n**Link Tag Format:**\n`<link=\"LabelName\">Keyword</link>`\n- When 'Keyword' is clicked, the script will jump to the '#LabelName' label.",
+        "examples": [
+          "@printDebate pos:70,50 Roll:4 \"The killer is <link=\\\"Objection_01\\\">Yuki</link>!\""
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Text",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The debate text to display. Can contain rich text tags, including custom `<link>` tags."
+          },
+          "label": "text",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ScenePosition",
+          "alias": "pos",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Position of the text block on screen in percentages (X,Y)."
+          },
+          "label": "pos",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Roll",
+          "alias": "Roll",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The Z-axis rotation (roll) of the text block in degrees."
+          },
+          "label": "roll",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "printDebate"
+    },
+    {
+      "id": "PauseTrial",
+      "alias": "pauseTrial",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Pauses or resumes the trial's game mechanics, such as countdown timers.",
+        "remarks": "This command controls the 'game world' time, but does not stop the script player itself. Use `@stop` or `@StopForChoice` to pause script execution.",
+        "examples": [
+          "; Pause the trial timer to allow the player to think",
+          "@pauseTrial true",
+          "",
+          "; Resume the trial timer after a choice is made",
+          "@pauseTrial false"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Paused",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Set to `true` to pause the trial, `false` to resume."
+          },
+          "label": "paused",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Timer",
+          "alias": "timer",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Optional flag to specify which mechanic to pause (if there are multiple)."
+          },
+          "label": "timer",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "pauseTrial"
+    },
+    {
+      "id": "StopVoice",
+      "alias": "StopVoice",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": { "summary": "Stop currently playing voice audio." },
+      "parameters": [],
+      "label": "StopVoice"
+    },
+    {
+      "id": "CancelGosub",
+      "alias": "CancelGosub",
+      "group": "Playback",
+      "localizable": false,
+      "documentation": {
+        "summary": "Clears the entire @gosub return stack.",
+        "remarks": "This is a powerful flow control command used to break out of a deep subroutine call chain. After this command, any subsequent `@return` will have no effect until a new `@gosub` is called. It's used to prevent the script from returning to a location that is no longer relevant (e.g., after a successful objection).",
+        "examples": [
+          "; After a critical choice, we don't want to return to the previous context.",
+          "@CancelGosub",
+          "@goto .NewStoryBranch"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "CancelGosub"
+    },
+    {
+      "id": "Skip",
+      "alias": "Skip",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Enable or disable script skipping." },
+      "parameters": [
+        {
+          "id": "Enabled",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "enabled",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "Skip"
+    },
+    {
+      "id": "Toast",
+      "alias": "toast",
+      "group": "UI",
+      "localizable": true,
+      "documentation": {
+        "summary": "Show a toast notification with a message."
+      },
+      "parameters": [
+        {
+          "id": "Message",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "message",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "toast"
+    },
+    {
+      "id": "ShowLoading",
+      "alias": "showLoading",
+      "group": "UI",
+      "localizable": false,
+      "documentation": {
+        "summary": "Show a loading screen. Supports id, time, halt, and Wait."
+      },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Time",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Halt",
+          "alias": "halt",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "halt",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "showLoading"
+    },
+    {
+      "id": "BlockInteraction",
+      "alias": "BlockInteraction",
+      "group": "UI",
+      "localizable": false,
+      "documentation": {
+        "summary": "Block user interaction for a specified time."
+      },
+      "parameters": [
+        {
+          "id": "Time",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "BlockInteraction"
+    },
+    {
+      "id": "UpdateWitchBookEntry",
+      "alias": "update",
+      "group": "WitchBook",
+      "localizable": false,
+      "documentation": {
+        "summary": "Adds or updates an entry in the Witch Book (encyclopedia).",
+        "remarks": "This command is central to the game's investigation mechanics. It's used to reveal new clues, update character profiles, and advance the state of evidence.\n\n- The `Id` often corresponds to a specific piece of evidence or a character file.\n- The `Version` is used to update an existing entry with new information as the story progresses.\n\n**State Reset Pattern:**\nThis command is heavily used in `System_ResetWitchBook.nani` to set a specific, expected state for the Witch Book at different points in the story. The pattern is usually `@clearBook` followed by a series of `@update` commands.",
+        "examples": [
+          "; Add a new clue (version 1) with ID '10-7'",
+          "@update \"10-7\" Category:Clue Version:1",
+          "",
+          "; Update the same clue to version 2 with new findings",
+          "@update \"10-7\" Category:Clue Version:2"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "EntryId",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The unique ID of the Witch Book entry to add or update. Often in a 'Chapter-Index' format."
+          },
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Category",
+          "alias": "Category",
+          "nameless": false,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "WitchBookCategories" }],
+          "documentation": {
+            "summary": "The category of the entry (e.g., Clue, Profile)."
+          },
+          "label": "category",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Version",
+          "alias": "Version",
+          "nameless": false,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The version number of this entry. Use a higher number to update existing information."
+          },
+          "label": "version",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "update"
+    },
+    {
+      "id": "Book",
+      "alias": "book",
+      "group": "WitchBook",
+      "localizable": false,
+      "documentation": { "summary": "Open the witch book UI." },
+      "parameters": [],
+      "label": "book"
+    },
+    {
+      "id": "Evidence",
+      "alias": "evidence",
+      "group": "WitchBook",
+      "localizable": false,
+      "documentation": {
+        "summary": "Present evidence in the witch book. Supports optional correct ID and category."
+      },
+      "parameters": [
+        {
+          "id": "CorrectId",
+          "alias": "correct",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "correctId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Category",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "WitchBookCategories" }],
+          "label": "category",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "evidence"
+    },
+    {
+      "id": "BeginIf",
+      "alias": "if",
+      "group": "Branching",
+      "localizable": false,
+      "nest": { "required": false },
+      "branch": { "traits": 26, "switchRoots": [] },
+      "documentation": {
+        "summary": "Marks the beginning of a conditional execution block. The nested commands will only execute if the expression evaluates to true.",
+        "examples": [
+          "@if g_player_has_key",
+          "    Player: I'll use the key to open this door.",
+          "@else",
+          "    Player: The door is locked.",
+          "@endif"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Expression",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A script expression that should evaluate to a boolean (true/false) value."
+          },
+          "label": "expression",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "if"
+    },
+    {
+      "id": "Else",
+      "alias": "else",
+      "group": "Branching",
+      "localizable": false,
+      "nest": { "required": false },
+      "branch": {
+        "traits": 10,
+        "switchRoots": ["BeginIf"]
+      },
+      "documentation": {
+        "summary": "Marks an alternative branch in a conditional block, executed if the preceding @if or @else if conditions are false.",
+        "examples": [
+          "; Simple @else",
+          "@if score > 10",
+          "    @stopBgm",
+          "@else",
+          "    @bgm SadTheme",
+          "@endif",
+          "",
+          "; Chained @else if",
+          "@if score > 10",
+          "    Result: Excellent!",
+          "@else if score > 5",
+          "    Result: Good.",
+          "@else",
+          "    Result: Try again.",
+          "@endif"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "Optional boolean expression to form an 'else if' condition."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "else"
+    },
+    {
+      "id": "EndIf",
+      "alias": "endif",
+      "group": "Branching",
+      "localizable": false,
+      "documentation": {
+        "summary": "Marks the end of a conditional execution block started with @if.",
+        "remarks": "While indentation can also close a block, using @endif is explicit and recommended for clarity, especially in complex nested conditions."
+      },
+      "parameters": [],
+      "label": "endif"
+    },
+    {
+      "id": "ClearBacklog",
+      "alias": "ClearBacklog",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Clear backlog." },
+      "parameters": [],
+      "label": "ClearBacklog"
+    },
+    {
+      "id": "ReturnToTitle",
+      "alias": "ReturnToTitle",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": {
+        "summary": "Return to title screen. Supports optional Wait flag, time and delay."
+      },
+      "parameters": [
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Time",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Delay",
+          "alias": "delay",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "delay",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "ReturnToTitle"
+    },
+    {
+      "id": "HideActors",
+      "alias": "hide",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Hides one or more actors (characters, backgrounds, text printers, etc) by their ID.",
+        "examples": [
+          "; Hide the character 'Yuki'",
+          "@hide Yuki",
+          "; Hide both 'Yuki' and 'Hanna' over 1.5 seconds",
+          "@hide Yuki,Hanna time:1.5"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorIds",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [
+            { "type": 4, "subType": "Characters" },
+            { "type": 2, "subType": "Backgrounds" }
+          ],
+          "documentation": {
+            "summary": "A comma-separated list of Actor IDs to hide."
+          },
+          "label": "actorIds",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "defaultValue": "0.35",
+          "documentation": {
+            "summary": "Duration of the hide animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the hide animation to complete before executing the next command."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Lazy",
+          "alias": "Lazy",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "[Custom] Controls the execution flow, possibly related to waiting for the command to complete."
+          },
+          "label": "lazy",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "hide"
+    },
+    {
+      "id": "ShowActors",
+      "alias": "show",
+      "group": "Actors",
+      "localizable": false,
+      "documentation": {
+        "summary": "Makes one or more previously hidden actors visible.",
+        "remarks": "This command only changes the visibility state of an actor. It does not affect its appearance, position, or any other properties. It's the direct counterpart to the `@hide` command and is perfect for making an actor reappear in its last known state.",
+        "examples": [
+          "; After being hidden, Sherry reappears in the same state.",
+          "@hide Sherry-Front",
+          "...",
+          "@show Sherry-Front"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorIds",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "*" }],
+          "documentation": {
+            "summary": "A comma-separated list of Actor IDs to make visible."
+          },
+          "label": "actorIds",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "defaultValue": "0.35",
+          "documentation": {
+            "summary": "Duration of the show/fade-in animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Wait",
+          "alias": "wait",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the show animation to complete before executing the next command."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "documentation": {
+            "summary": "A boolean script expression that controls whether this command should execute."
+          },
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "show"
+    },
+    {
+      "id": "Movie",
+      "alias": "movie",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Play a movie file. Supports optional Wait flag."
+      },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "movie"
+    },
+    {
+      "id": "WaitForNextFrame",
+      "alias": "WaitForNextFrame",
+      "group": "Playback",
+      "localizable": false,
+      "documentation": {
+        "summary": "Pauses script execution until the next frame.",
+        "remarks": "This is an advanced command used for synchronization. It ensures that any asynchronous visual commands (like `@animate` or `@spawn`) issued before it have had at least one frame to render and take effect before the script continues. This can prevent visual glitches or 'jank' in complex animation sequences.",
+        "examples": [
+          "; Start two animations without waiting for them to finish",
+          "@animate ActorA posX:10 time:1",
+          "@animate ActorB posX:90 time:1",
+          "; Wait for one frame to ensure the animations have started rendering",
+          "@WaitForNextFrame",
+          "; Then, immediately show a text box",
+          "@print \"They are moving!\""
+        ]
+      },
+      "parameters": [],
+      "label": "WaitForNextFrame"
+    },
+    {
+      "id": "ClearChoiceHandler",
+      "alias": "clearChoice",
+      "group": "Branching",
+      "localizable": false,
+      "documentation": {
+        "summary": "Removes all currently visible choices from the screen.",
+        "remarks": "This command is used to manually remove choices without the player making a selection. It's essential for creating timed events where the opportunity to choose expires.",
+        "examples": [
+          "; Give the player 3 seconds to make a choice",
+          "@choice \"Quick!\" goto:.Success",
+          "@wait 3",
+          "; Time's up! Remove the choice.",
+          "@clearChoice",
+          "@goto .Failure"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "HandlerId",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "ChoiceHandlers" }],
+          "documentation": {
+            "summary": "The ID of the choice handler to clear. If omitted, clears the default handler. Use '*' to clear all handlers."
+          },
+          "label": "handlerId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "clearChoice"
+    },
+    {
+      "id": "SpawnBlur",
+      "alias": "blur",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Applies a blur effect to a specified actor (e.g., a character, background, or the 'Stills' CG layer).",
+        "examples": [
+          "; Blur the main background",
+          "@blur MainBackground power:0.5 time:1",
+          "; Remove the blur effect from the 'Stills' layer",
+          "@blur \"Stills\" power:0 time:1.8"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorId",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "defaultValue": "MainBackground",
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "*" }],
+          "documentation": {
+            "summary": "The ID of the actor to apply the blur effect to. Defaults to 'MainBackground'."
+          },
+          "label": "actorId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Intensity",
+          "alias": "power",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The intensity of the blur, from 0.0 (no blur) to 1.0 (max blur). Set to 0 to remove the effect."
+          },
+          "label": "power",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The duration of the transition to the target blur intensity, in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "blur"
+    },
+    {
+      "id": "ClearWitchBook",
+      "alias": "clearBook",
+      "group": "WitchBook",
+      "localizable": false,
+      "documentation": {
+        "summary": "Completely clears all entries from the Witch Book.",
+        "remarks": "This command is the first step in the 'Reset Book' pattern, used at the beginning of major story chapters or trials to ensure the player's clue state is clean before re-populating it with `@update` commands.",
+        "examples": [
+          "; At the start of Chapter 2, completely reset the Witch Book",
+          "@clearBook",
+          "@update \"10-1\" Category:\"Clue\" Version:2",
+          "..."
+        ]
+      },
+      "parameters": [],
+      "label": "clearBook"
+    },
+    {
+      "id": "ShowPrinter",
+      "alias": "ShowPrinter",
+      "group": "Text",
+      "localizable": false,
+      "documentation": {
+        "summary": "Show a text printer by ID. Supports optional time."
+      },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Time",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "time",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "ShowPrinter"
+    },
+    {
+      "id": "LoadStage",
+      "alias": "loadStage",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Loads a 3D stage/environment, typically used for the courtroom.",
+        "remarks": "Unlike `@back`, this loads a full 3D scene prefab instead of a 2D texture.",
+        "examples": ["@loadStage \"Courtroom_Day\" Wait:true"]
+      },
+      "parameters": [
+        {
+          "id": "StageName",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The name of the 3D stage prefab to load."
+          },
+          "label": "stageName",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Whether to wait for the stage to finish loading before executing the next command."
+          },
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "loadStage"
+    },
+    {
+      "id": "UnloadStage",
+      "alias": "unloadStage",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Unloads the currently active 3D stage.",
+        "examples": ["@unloadStage"]
+      },
+      "parameters": [],
+      "label": "unloadStage"
+    },
+    {
+      "id": "QuickLoad",
+      "alias": "QuickLoad",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": {
+        "summary": "Quick load from slot. Supports optional Wait flag."
+      },
+      "parameters": [
+        {
+          "id": "Slot",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "slot",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Wait",
+          "alias": "Wait",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "wait",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "QuickLoad"
+    },
+    {
+      "id": "Quit",
+      "alias": "Quit",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Quit the application." },
+      "parameters": [],
+      "label": "Quit"
+    },
+    {
+      "id": "GosubResetBook",
+      "alias": "gosubResetBook",
+      "group": "WitchBook",
+      "localizable": false,
+      "documentation": {
+        "summary": "[Custom Shortcut] A specific pattern for calling the book reset subroutine.",
+        "remarks": "This is NOT a real command, but a high-level shortcut for using `@gosub`. It calls a subroutine in `System/System_ResetWitchBook.nani` to set the Witch Book to a specific state for the current story point.\n\nThe `Version` parameter is used internally to construct the target label within the subroutine script.",
+        "examples": [
+          "; At the start of a trial, set the Witch Book state to version 1",
+          "@gosubResetBook Version:1 System/System_ResetWitchBook"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Path",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The path to the reset subroutine script, which should always be `System/System_ResetWitchBook`."
+          },
+          "label": "path",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Version",
+          "alias": "Version",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The state version to reset to. This is used to determine which set of `@update` commands to run."
+          },
+          "label": "version",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "IsDebugDirectJump",
+          "alias": "IsDebugDirectJump",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "A debug flag, likely used for testing specific game states."
+          },
+          "label": "isDebugDirectJump",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "gosubResetBook"
+    },
+    {
+      "id": "PlaySfx",
+      "alias": "sfx",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Plays a sound effect (SFX).",
+        "examples": ["@sfx Sfx_26"]
+      },
+      "parameters": [
+        {
+          "id": "SfxPath",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Audio" }],
+          "documentation": {
+            "summary": "The path/ID of the sound effect to play."
+          },
+          "label": "sfxPath",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "sfx"
+    },
+    {
+      "id": "StopSfx",
+      "alias": "StopSfx",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Stops a currently playing sound effect.",
+        "examples": ["@StopSfx Sfx_24"]
+      },
+      "parameters": [
+        {
+          "id": "SfxPath",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 2, "subType": "Audio" }],
+          "documentation": {
+            "summary": "The path/ID of the sound effect to stop. If omitted, stops all SFX."
+          },
+          "label": "sfxPath",
+          "typeLabel": "string"
+        },
+        {
+          "id": "FadeOutDuration",
+          "alias": "fade",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the fade-out in seconds."
+          },
+          "label": "fade",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "StopSfx"
+    },
+    {
+      "id": "CorrectChoice",
+      "alias": "correctChoice",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Indicate a correct choice by index." },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "index",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "correctChoice"
+    },
+    {
+      "id": "BadEnd",
+      "alias": "badEnd",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Trigger a bad end by index." },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "index",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "badEnd"
+    },
+    {
+      "id": "BadId",
+      "alias": "badId",
+      "group": "Flow",
+      "localizable": false,
+      "documentation": { "summary": "Set a bad end ID." },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "label": "id",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "badId"
+    },
+    {
+      "id": "GosubModifyCamera",
+      "alias": "gosubModifyCamera",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "[Custom Shortcut] Calls a subroutine to apply cinematic camera movements in the trial stage.",
+        "remarks": "This is a high-level command that directs the camera using intuitive parameters rather than raw coordinates. It likely calls a master `@gosub` routine in the background.",
+        "examples": [
+          "; Focus the camera on Sherry, placing her in the left of the frame, with a slight right roll and a zoom level of 4.",
+          "@gosubModifyCamera 0 look:\"Sherry\" comp:\"Left\" rollDir:\"Right\" zoomLvl:4"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The index of the stage camera to modify."
+          },
+          "label": "index",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "LookTarget",
+          "alias": "look",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character the camera should focus on."
+          },
+          "label": "look",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Composition",
+          "alias": "comp",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The compositional placement of the target (e.g., 'Left', 'Center', 'Right')."
+          },
+          "label": "composition",
+          "typeLabel": "string"
+        },
+        {
+          "id": "RollDirection",
+          "alias": "rollDir",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The direction to slightly roll the camera (e.g., 'Left', 'Right')."
+          },
+          "label": "rollDirection",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ZoomLevel",
+          "alias": "zoomLvl",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The desired zoom level (a higher number means more zoom)."
+          },
+          "label": "zoomLevel",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "gosubModifyCamera"
+    },
+    {
+      "id": "GosubSplitStageScreen",
+      "alias": "gosubSplitStageScreen",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "[Custom Shortcut] Calls a subroutine to create a cinematic split-screen or cut-in effect.",
+        "remarks": "This is a high-level command for creating dynamic, comic-book-style panel effects. It simplifies the use of the underlying `@splitStageScreen` command by using intuitive, director-like parameters.",
+        "examples": [
+          "; Create a split-screen effect on the left side, tilting right, focusing on Ema",
+          "@gosubSplitStageScreen 0 look:\"Ema\" comp:\"Left\" rollDir:\"Right\""
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Index",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The index of the stage screen to apply the effect on."
+          },
+          "label": "index",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "LookTarget",
+          "alias": "look",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character the effect should visually focus on. This helps determine camera positioning."
+          },
+          "label": "look",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Composition",
+          "alias": "comp",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The compositional placement of the effect (e.g., 'Left', 'Right', 'Center', 'Over')."
+          },
+          "label": "composition",
+          "typeLabel": "string"
+        },
+        {
+          "id": "RollDirection",
+          "alias": "rollDir",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The direction the split panel should roll/tilt towards (e.g., 'Left', 'Right')."
+          },
+          "label": "rollDirection",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "gosubSplitStageScreen"
+    },
+    {
+      "id": "Damage",
+      "alias": "Damage",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "Apply a damage/shake effect to the screen."
+      },
+      "parameters": [],
+      "label": "Damage"
+    },
+    {
+      "id": "GosubCutIn",
+      "alias": "gosubCutIn",
+      "group": "Trial",
+      "localizable": false,
+      "documentation": {
+        "summary": "[Custom Shortcut] Triggers a character's cinematic cut-in animation sequence.",
+        "remarks": "This command is a high-level shortcut that calls a subroutine (like `# EndDebate-CutIn`) to play a dynamic, full-screen character-focused animation, typically used for objections or critical statements in a trial.",
+        "examples": [
+          "; Trigger Ema's primary cut-in animation.",
+          "@gosubCutIn \"Ema\" Index:1",
+          "",
+          "; Trigger a different style of cut-in for Sherry.",
+          "@gosubCutIn \"Sherry\" Index:2"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "CharacterId",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "Characters" }],
+          "documentation": {
+            "summary": "The ID of the character who will perform the cut-in."
+          },
+          "label": "characterId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Index",
+          "alias": "Index",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The style index of the cut-in animation to play. Different numbers may correspond to different emotions or actions."
+          },
+          "label": "index",
+          "typeLabel": "integer"
+        }
+      ],
+      "label": "gosubCutIn"
+    },
+    {
+      "id": "StopSfx",
+      "alias": "StopSfx",
+      "group": "Audio",
+      "localizable": false,
+      "documentation": {
+        "summary": "Stop currently playing sound effects. Supports optional ID and fade time."
+      },
+      "parameters": [
+        {
+          "id": "Id",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "label": "id",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Fade",
+          "alias": "fade",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "label": "fade",
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "StopSfx"
+    },
+    {
+      "id": "ModifyCamera",
+      "alias": "camera",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Modifies the main 2D camera, controlling zoom, offset, and rotation.",
+        "remarks": "This is the primary command for cinematography in 2D scenes. It moves the 'viewing window' over the 2D stage. All parameters can be animated over time.",
+        "examples": [
+          "; Zoom in and pan the camera to focus on a detail",
+          "@camera Offset:11,-2 Zoom:0.8 easing:SmoothStep time:0.9",
+          "; Instantly reset the camera to its default state",
+          "@camera Offset:0,0 Zoom:0 Roll:0 time:0"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "Offset",
+          "alias": "Offset",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 1,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The camera's positional offset in world units (X,Y,Z)."
+          },
+          "label": "offset",
+          "typeLabel": "decimal list"
+        },
+        {
+          "id": "Zoom",
+          "alias": "Zoom",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Relative camera zoom level, from 0.0 (no zoom) to 1.0 (full zoom)."
+          },
+          "label": "zoom",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Roll",
+          "alias": "roll",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The Z-axis rotation of the camera in degrees (Dutch angle)."
+          },
+          "label": "roll",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "Duration of the camera animation in seconds."
+          },
+          "label": "time",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "EasingTypeName",
+          "alias": "easing",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "EasingType" }],
+          "documentation": {
+            "summary": "The easing function to use for the animation."
+          },
+          "label": "easing",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ConditionalExpression",
+          "alias": "if",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 0, "subType": "Condition" }],
+          "label": "if",
+          "typeLabel": "string"
+        }
+      ],
+      "label": "camera"
+    },
+    {
+      "id": "ShowMap",
+      "alias": "map",
+      "group": "WitchBook",
+      "localizable": false,
+      "documentation": {
+        "summary": "Displays an interactive map UI for investigation.",
+        "remarks": "This command activates the map screen. The nameless parameter lists all clickable area IDs on the map.\nWhen an area is clicked, its ID is stored in a variable (likely 'chosenAreaId'), and the script player pauses, waiting for `@if` blocks to handle the choice.\n\nThe `flag` parameter is used with a bitmask variable to track which areas have been visited.",
+        "examples": [
+          "@map RecreationRoom,Library,Infirmary flag:\"chosenAreaFlag\""
+        ]
+      },
+      "parameters": [
+        {
+          "id": "AreaIds",
+          "alias": "",
+          "nameless": true,
+          "required": true,
+          "localizable": false,
+          "valueContainerType": 1,
+          "valueType": 0,
+          "valueContext": [{ "type": 1, "subType": "MapAreaIDs" }],
+          "documentation": {
+            "summary": "A comma-separated list of all clickable area IDs on the map. Use autocomplete to see available areas."
+          },
+          "label": "areaIds",
+          "typeLabel": "string list"
+        },
+        {
+          "id": "FlagVariable",
+          "alias": "flag",
+          "nameless": false,
+          "required": false,
+          "localizable": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "documentation": {
+            "summary": "The name of the bitmask variable used to track visited areas."
+          },
+          "label": "flagVariable",
+          "typeLabel": "string"
+        },
+        {
+          "id": "Back",
+          "alias": "Back",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Likely controls whether a 'Back' button is shown on the map UI."
+          },
+          "label": "back",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Global",
+          "alias": "Global",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "documentation": {
+            "summary": "Likely controls whether the map state is saved globally or per-playthrough."
+          },
+          "label": "global",
+          "typeLabel": "boolean"
+        }
+      ],
+      "label": "map"
+    },
+    {
+      "id": "SpawnShake",
+      "alias": "shake",
+      "group": "Visuals",
+      "localizable": false,
+      "documentation": {
+        "summary": "Applies a shake effect to a specified actor or the main 2D camera.",
+        "remarks": "Used to simulate impacts, explosions, or emotional turmoil. When the target ID is 'Camera', it shakes the entire screen in a 2D scene.",
+        "examples": [
+          "; Shake the entire screen to simulate a fall",
+          "@shake \"Camera\" count:2 power:0.1",
+          "; Shake a character to show they are trembling",
+          "@shake Yuki loop!"
+        ]
+      },
+      "parameters": [
+        {
+          "id": "ActorId",
+          "alias": "",
+          "nameless": true,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 0,
+          "valueContext": [{ "type": 4, "subType": "*" }],
+          "documentation": {
+            "summary": "The ID of the actor to shake. Use \"Camera\" to shake the main 2D camera."
+          },
+          "label": "actorId",
+          "typeLabel": "string"
+        },
+        {
+          "id": "ShakeCount",
+          "alias": "count",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 1,
+          "documentation": {
+            "summary": "The number of shake iterations. Ignored if `loop` is enabled."
+          },
+          "label": "count",
+          "typeLabel": "integer"
+        },
+        {
+          "id": "Loop",
+          "alias": "loop",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "loop",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "ShakeAmplitude",
+          "alias": "power",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "The base intensity (displacement) of the shake."
+          },
+          "label": "power",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "AmplitudeVariation",
+          "alias": "deltaPower",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 2,
+          "documentation": {
+            "summary": "A randomized modifier for the shake intensity."
+          },
+          "label": "deltaPower",
+          "typeLabel": "decimal"
+        },
+        {
+          "id": "Horizontal",
+          "alias": "hor",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "hor",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Vertical",
+          "alias": "ver",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueType": 3,
+          "label": "ver",
+          "typeLabel": "boolean"
+        },
+        {
+          "id": "Duration",
+          "alias": "time",
+          "nameless": false,
+          "required": false,
+          "valueContainerType": 0,
+          "valueTyle": 2,
+          "typeLabel": "decimal"
+        }
+      ],
+      "label": "shake"
+    }
+  ],
+  "resources": [
+    {
+      "path": "MaskingRectangle",
+      "type": "Spawn",
+      "documentation": {
+        "summary": "创建一个程序化的矩形遮罩，常用于画中画效果。"
+      }
+    },
+    {
+      "path": "ControlPanel",
+      "type": "UI",
+      "documentation": {
+        "summary": "The main control panel (Save, Load, Config)."
+      }
+    },
+    {
+      "path": "AutoToggle",
+      "type": "UI",
+      "documentation": { "summary": "The UI for toggling auto-play mode." }
+    },
+    {
+      "path": "WitchBookButtonUI",
+      "type": "UI",
+      "documentation": { "summary": "The button to open the Witch Book." }
+    },
+    {
+      "path": "ExecutionButton",
+      "type": "UI",
+      "documentation": {
+        "summary": "The special UI for the execution confirmation button."
+      }
+    },
+    {
+      "path": "DebateUI",
+      "type": "UI",
+      "documentation": {
+        "summary": "The UI for the multi-person debate/argument sequence."
+      }
+    }
+  ],
+  "constants": [
+    {
+      "name": "CustomVariableValueType",
+      "values": ["String", "Numeric", "Boolean"]
+    },
+    {
+      "name": "TransitionType",
+      "values": [
+        "Crossfade",
+        "BandedSwirl",
+        "Blinds",
+        "CircleReveal",
+        "CircleStretch",
+        "CloudReveal",
+        "Crumble",
+        "Dissolve",
+        "DropFade",
+        "LineReveal",
+        "Pixelate",
+        "RadialBlur",
+        "RadialWiggle",
+        "RandomCircleReveal",
+        "Ripple",
+        "RotateCrumble",
+        "Saturate",
+        "Shrink",
+        "SlideIn",
+        "SwirlGrid",
+        "Swirl",
+        "Water",
+        "Waterfall",
+        "Wave",
+        "Custom"
+      ]
+    },
+    {
+      "name": "EasingType",
+      "values": [
+        "Linear",
+        "SmoothStep",
+        "Spring",
+        "EaseInQuad",
+        "EaseOutQuad",
+        "EaseInOutQuad",
+        "EaseInCubic",
+        "EaseOutCubic",
+        "EaseInOutCubic",
+        "EaseInQuart",
+        "EaseOutQuart",
+        "EaseInOutQuart",
+        "EaseInQuint",
+        "EaseOutQuint",
+        "EaseInOutQuint",
+        "EaseInSine",
+        "EaseOutSine",
+        "EaseInOutSine",
+        "EaseInExpo",
+        "EaseOutExpo",
+        "EaseInOutExpo",
+        "EaseInCirc",
+        "EaseOutCirc",
+        "EaseInOutCirc",
+        "EaseInBounce",
+        "EaseOutBounce",
+        "EaseInOutBounce",
+        "EaseInBack",
+        "EaseOutBack",
+        "EaseInOutBack",
+        "EaseInElastic",
+        "EaseOutElastic",
+        "EaseInOutElastic"
+      ]
+    },
+    { "name": "CharacterLookDirection", "values": ["Center", "Left", "Right"] },
+    { "name": "Poses/Characters/*", "values": [] },
+    { "name": "Poses/Backgrounds/*", "values": [] },
+    {
+      "name": "AudioPaths",
+      "values": ["Audio/Bgm/", "Audio/Voice/", "Audio/Sfx/"]
+    },
+    { "name": "CreditsIndex", "values": ["1", "2"] },
+    {
+      "name": "DissolveModes",
+      "values": [
+        "HorizontalRects",
+        "Radial",
+        "Circle",
+        "Iris",
+        "Wipe",
+        "Blocks",
+        "Clouds",
+        "Pixelate",
+        "Slide",
+        "Fade"
+      ]
+    },
+    {
+      "name": "SplitScreenDirections",
+      "values": ["Left", "Right", "Up", "Down"]
+    },
+    {
+      "name": "WitchBookCategories",
+      "values": ["Clue", "Profile", "Map", "Rule", "Note"]
+    },
+    {
+      "name": "InputTypes",
+      "values": [
+        "Continue",
+        "Pause",
+        "Skip",
+        "ToggleSkip",
+        "SkipMovie",
+        "AutoPlay",
+        "ToggleUI",
+        "ShowBacklog",
+        "Rollback"
+      ]
+    },
+    {
+      "name": "MapAreaIDs",
+      "values": [
+        "RecreationRoom",
+        "Library",
+        "Infirmary",
+        "SolitaryConfinement",
+        "Lake",
+        "NoahStudio",
+        "Courtyard",
+        "BasementHallway",
+        "Lounge",
+        "EntranceHall",
+        "MessHall",
+        "Showers",
+        "ChamberSalamander",
+        "ChamberUndine",
+        "ChamberGnome",
+        "FrontGuesthouse",
+        "Warehouse",
+        "Courtroom",
+        "CourtroomHallway",
+        "PrisonEntrance",
+        "Wall",
+        "FlowerFields"
+      ]
+    }
+  ],
+  "variables": [],
+  "functions": [
+    {
+      "name": "random",
+      "documentation": {
+        "summary": "Return a random integer number between min [inclusive] and max [inclusive].",
+        "examples": ["random(0, 100)"]
+      },
+      "parameters": [
+        { "name": "min", "type": 1, "variadic": false },
+        { "name": "max", "type": 1, "variadic": false }
+      ]
+    },
+    {
+      "name": "random",
+      "documentation": {
+        "summary": "Return a random double number between min [inclusive] and max [inclusive].",
+        "examples": ["random(0.5, 1.5)"]
+      },
+      "parameters": [
+        { "name": "min", "type": 2, "variadic": false },
+        { "name": "max", "type": 2, "variadic": false }
+      ]
+    },
+    {
+      "name": "random",
+      "documentation": {
+        "summary": "Return a string chosen from one of the specified strings.",
+        "examples": [
+          "random(\u0022foo\u0022, \u0022bar\u0022, \u0022baz\u0022)"
+        ]
+      },
+      "parameters": [{ "name": "args", "type": 0, "variadic": true }]
+    },
+    {
+      "name": "calculateProgress",
+      "documentation": {
+        "summary": "Returns scenario completion ratio, in 0.0 to 1.0 range, where 1.0 means all the script lines were executed at least once.",
+        "examples": ["calculateProgress()"]
+      },
+      "parameters": []
+    },
+    {
+      "name": "isUnlocked",
+      "documentation": {
+        "summary": "Checks whether an unlockable item with the specified ID is currently unlocked.",
+        "examples": ["isUnlocked(\u0022Tips/MyTip\u0022)"]
+      },
+      "parameters": [
+        {
+          "name": "id",
+          "type": 0,
+          "context": { "type": 2, "subType": "Unlockables" },
+          "variadic": false
+        }
+      ]
+    },
+    {
+      "name": "hasPlayed",
+      "documentation": {
+        "summary": "Checks whether currently played command has ever been played before.",
+        "examples": ["hasPlayed()"]
+      },
+      "parameters": []
+    },
+    {
+      "name": "hasPlayed",
+      "documentation": {
+        "summary": "Checks whether script with the specified path has ever been played before.",
+        "examples": ["hasPlayed(\u0022MyScript\u0022)"]
+      },
+      "parameters": [
+        {
+          "name": "scriptPath",
+          "type": 0,
+          "context": { "type": 2, "subType": "Scripts" },
+          "variadic": false
+        }
+      ]
+    },
+    {
+      "name": "getName",
+      "documentation": {
+        "summary": "Returns author name of a character actor with the specified ID.",
+        "examples": ["getName(\u0022Kohaku\u0022)"]
+      },
+      "parameters": [
+        {
+          "name": "characterId",
+          "type": 0,
+          "context": { "type": 4, "subType": "Characters" },
+          "variadic": false
+        }
+      ]
+    },
+    {
+      "name": "pow",
+      "documentation": {
+        "summary": "Returns num raised to power.",
+        "examples": ["pow(2, 3)"]
+      },
+      "parameters": [
+        { "name": "num", "type": 2, "variadic": false },
+        { "name": "pow", "type": 2, "variadic": false }
+      ]
+    },
+    {
+      "name": "sqrt",
+      "documentation": {
+        "summary": "Returns square root of num.",
+        "examples": ["sqrt(2)"]
+      },
+      "parameters": [{ "name": "num", "type": 2, "variadic": false }]
+    },
+    {
+      "name": "cos",
+      "documentation": {
+        "summary": "Returns the cosine of angle.",
+        "examples": ["cos(180)"]
+      },
+      "parameters": [{ "name": "num", "type": 2, "variadic": false }]
+    },
+    {
+      "name": "sin",
+      "documentation": {
+        "summary": "Returns the sine of angle.",
+        "examples": ["sin(90)"]
+      },
+      "parameters": [{ "name": "num", "type": 2, "variadic": false }]
+    },
+    {
+      "name": "log",
+      "documentation": {
+        "summary": "Returns the natural (base e) logarithm of a specified number.",
+        "examples": ["log(0.5)"]
+      },
+      "parameters": [{ "name": "num", "type": 2, "variadic": false }]
+    },
+    {
+      "name": "abs",
+      "documentation": {
+        "summary": "Returns the absolute value of f.",
+        "examples": ["abs(0.5)"]
+      },
+      "parameters": [{ "name": "num", "type": 2, "variadic": false }]
+    },
+    {
+      "name": "max",
+      "documentation": {
+        "summary": "Returns largest of two or more values.",
+        "examples": ["max(1, 10, -9)"]
+      },
+      "parameters": [{ "name": "nums", "type": 2, "variadic": true }]
+    },
+    {
+      "name": "min",
+      "documentation": {
+        "summary": "Returns the smallest of two or more values.",
+        "examples": ["min(1, 10, -9)"]
+      },
+      "parameters": [{ "name": "nums", "type": 2, "variadic": true }]
+    },
+    {
+      "name": "round",
+      "documentation": {
+        "summary": "Returns num rounded to the nearest integer.",
+        "examples": ["round(0.9)"]
+      },
+      "parameters": [{ "name": "num", "type": 2, "variadic": false }]
+    },
+    {
+      "name": "approx",
+      "documentation": {
+        "summary": "Compares two floating point values and returns true if they are similar.",
+        "examples": ["approx(0.15, 0.15)"]
+      },
+      "parameters": [
+        { "name": "a", "type": 2, "variadic": false },
+        { "name": "b", "type": 2, "variadic": false }
+      ]
+    }
+  ],
+  "syntax": {
+    "commentLine": ";",
+    "labelLine": "#",
+    "commandLine": "@",
+    "authorAssign": ": ",
+    "authorAppearance": ".",
+    "parametrizeGeneric": "\u003C",
+    "expressionOpen": "{",
+    "expressionClose": "}",
+    "inlinedOpen": "[",
+    "inlinedClose": "]",
+    "parameterAssign": ":",
+    "listDelimiter": ",",
+    "namedDelimiter": ".",
+    "textIdOpen": "|#",
+    "textIdClose": "|",
+    "booleanFlag": "!",
+    "true": "true",
+    "false": "false"
+  }
+}

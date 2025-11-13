@@ -1,0 +1,6 @@
+@Gosub BlueFunny_ToTheMoon/Adv/1.Begin
+
+; 如果你想要新增剧本文件, 请使用 `@Gosub BlueFunny_ToTheMoon/Adv/<你要新增的剧本文件名称 (一般为 `上一个剧本文件名称+1` 即可 (如果需要分章节, 请提前讨论))>.Begin`
+
+; 跳转到结束
+@goto BlueFunny_ToTheMoon/Tools.EndToTitle

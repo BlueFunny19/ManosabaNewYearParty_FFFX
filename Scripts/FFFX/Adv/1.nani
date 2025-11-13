@@ -1,0 +1,8 @@
+# Begin
+
+@Gosub System/System_Subroutine.BeginAdv
+@set "hasWitchBook = false"
+
+@Gosub System/System_Subroutine.EndAdv
+
+@Return
