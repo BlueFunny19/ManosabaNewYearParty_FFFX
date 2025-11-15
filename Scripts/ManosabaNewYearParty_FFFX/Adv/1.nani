@@ -3,6 +3,279 @@
 @Gosub System/System_Subroutine.BeginAdv
 @set "hasWitchBook = false"
 
+
+@back 10_1 Scale:{g_backgroundDefaultScale} Lazy:false
+
+;消除遮罩
+@back SubId:"Overlay" Transparent.Custom dissolve:"VerticalBlindGradually" tint:"#000000" time:0.99 Lazy:false
+@Wait "0.9"
+
+@char Hanna.ArmL1,ArmR3,Surprised,Sweat1-1 pos:30,50 lazy:false
+
+@char Sherry.ArmL1,Default,ArmR10 pos:70,50 lazy:false
+
+@print "结果……真的就这样，成了哇……" author:Hanna waitInput:true Wait:true
+
+@print "汉娜机械地跟在雪莉身后，做梦一样地呓语着。刚才那场见面会的气氛称得上是十分愉快，但现在的她已经几乎对此一点记忆也没有了" waitInput:true Wait:true
+
+@print "只记得“欢迎”“新成员”这样的词汇被提到了好几次……那是什么意思呢？" waitInput:true Wait:true
+
+@char Sherry.ArmL1,Smile,ArmR10 pos:70,50 lazy:false
+@emoteJumpDouble Sherry
+
+@print "汉娜，太紧张了！爸爸和妈妈都是很好的人，我都说过了嘛。" author:Sherry waitInput:true Wait:true
+
+@print "领养手续什么的也全都没问题，所以没有必要那么拘谨哦。" author:Sherry waitInput:true Wait:true
+
+@back 9_1 Scale:{g_backgroundDefaultScale} Lazy:false wait:false 
+
+@animate Sherry posX:40 time:0.8 wait:true
+
+@animate Sherry posX:60 time:0.8 wait:false
+@animate Hanna posX:50 time:0.8 wait:false
+
+@print "啊——到了。那么那么！这就是名侦探橘雪莉的房间——”" author:Sherry waitInput:true Wait:true
+
+@hideChars time:0
+
+;替换成房间内背景
+@back 23_3 Scale:{g_backgroundDefaultScale} Lazy:false
+@back 23_3 subId:"Middle" Scale:{g_backgroundDefaultScale*1.4} pos:30,50 Lazy:false
+;展示一下房间
+@animate MainBackground-Middle posX:70 easing:"EaseOutQuad" time:"5.0" wait:false
+
+
+@print "雪莉一脚踢开了房门。出现在两人面前的是一间布置简单的少女闺房。一张整洁的小床，一张不大的书案，几个衣柜，构成了这个房间里的几乎全部内容物了。" waitInput:true Wait:true
+
+@hide MainBackground-Middle
+
+@char Sherry.Default,ArmR16,ArmL1 pos:70,50 lazy:false
+@char Hanna.ArmL1,ArmR3,Default pos:30,50 lazy:false
+
+@print "稍微值得一提的可能只是一个被塞的满满当当的书架。" waitInput:true Wait:true
+
+@print "（虽然没有看过。。但好像这些密密麻麻的珍藏全部都是推理小说）" author:Hanna waitInput:true Wait:true
+
+@char Hanna.Flushed,ArmR3,ArmL1,Angle01/Head01/Facial01/Mouth01>Mouth01_Angry_Open02 pos:30,50 lazy:false
+
+@print "才……才没有紧张呢" author:Hanna waitInput:true Wait:true
+
+@char Hanna.Flushed,ArmR3,ArmL1 pos:30,50 lazy:false
+
+@print "只是……发生了太多事了，不是吗？" author:Hanna waitInput:true Wait:true
+
+@print "(家。。。这里是。。家吗？）" author:Hanna waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR4,Pensive pos:30,50 lazy:false
+
+@print "汉娜有种奇怪的感觉。从刚才开始，一股没有来头的恐慌就在她体内不断生长。她不断告诉自己，这里不是监狱，这里没有什么值得恐慌的东西——" waitInput:true Wait:true
+
+@print "但恐慌却仍在她的身体中继续游走蔓延，仿佛这具躯体的本能在违背她意志般地拒绝当下的这一切。" waitInput:true Wait:true
+
+@print "在汉娜的记忆里，能与“家”这个字联系起来的概念，唯有破败与阴湿而已。" waitInput:true Wait:true
+
+@print "而眼前的这一方天地,这即将成为两人未来共同称之为“家”的地方,与那一切描述都几乎毫不相关。美好,温暖,光明……这本该是她梦寐以求了一生的Happy End才对。" waitInput:true Wait:true
+
+@print "可是，为什么，当这一切都触手可及的时候，她的心里，却会萌生如此的退缩之意呢？" waitInput:true Wait:true
+
+@char Sherry.Default,ArmR15,ArmL1 pos:70,50 lazy:false
+
+@print "嗯——嗯……。我都有点不认识这里了诶。我记着，我房间的门之前好像不是这个颜色的……”" author:Sherry waitInput:true Wait:true
+
+@char Sherry.Surprised,ArmR1,ArmL11 pos:70,50 lazy:false
+
+@print "明明只有十几天的时间没有住在这里，感觉起来却像半年一样呢。好神奇！" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR3,Angry pos:30,50 lazy:false
+
+@print "那不是当然的嘛！还有之前那个门一定是被你用坏了哇！看你刚才开门的动作都能知道了！" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmL9,ArmR3,Smile,Angle01/Facial/Mouth>Mouth_Yum_Closed pos:70,50 lazy:false
+
+@print "啊！诶嘿☆好像确实是这样呢。汉娜，有当侦探的潜质也说不定哦！" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL2,ArmR2,Angry pos:30,50 lazy:false
+
+@print "这话你都说了不知道多少次了哇，名侦探……" author:Hanna waitInput:true Wait:true
+
+@print "还有我们讲的完全不是一回事吧！真是的！明明能明白人家的心思，却总是这样充楞……" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmL1,Flushed,ArmR11 pos:70,50 lazy:false
+@animate Sherry posX:50 wait:false 
+@print "嘛——这种时候汉娜才不需要想那么多哦。这里以后就是汉娜的家了，所以随便一些也没关系的！来嘛——嘿咻！" author:Sherry waitInput:true Wait:true
+
+@print "不顾来自手中强烈的反抗意愿，雪莉强行把汉娜拉到了床边坐了下来。" waitInput:true Wait:true
+
+@hideChars
+;换成两人坐在床上的cg
+@back 23_3 Scale:{g_backgroundDefaultScale} Lazy:false
+
+@print "坐下来的汉娜则只是像被骗到宠物医院的小动物一样，低着头，什么也不说，什么也不做，好像在有意禁锢着自己的四肢，甚至要控制它们向内生长一样。" waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR1,Pensive pos:30,50 lazy:false
+@char Sherry.ArmL1,ArmR10,Pensive,Angle01/Facial/Mouth>Mouth_Smile_Closed pos:70,50 lazy:false
+
+@print "直到被并排坐着的雪莉同样一动不动地盯着看了几分钟后，少女的忧虑才终于随着眼中的闪烁吐露而出：" waitInput:true Wait:true
+
+@print "真的……能就这样继续……下去吗……" author:Hanna waitInput:true Wait:true
+
+@print "被黑暗囚禁了一辈子的人，当她第一次见到光明时，哪怕那只是常人习以为常的阳光，也会睁不开眼睛。" waitInput:true Wait:true
+
+@animate Sherry posX:65
+
+@print "现在的汉娜，正是睁不开眼睛的时候。" waitInput:true Wait:true
+
+@print "——被亲人所抛弃，被幸福所抛弃，后来又被自己的信念所抛弃。" waitInput:true Wait:true
+
+@animate Sherry posX:60
+
+@print "一个出身，几个世界的汉娜共同遭受了这许多许多。对于这样一个遍体鳞伤的少女，即使是仅仅为她清理伤口，对她来说也是莫大的伤痛。" waitInput:true Wait:true
+
+@print "于是她封闭了自己的内心，封印了现实，要用一个完美的，幻想的自己替代原本的自己继续生活下去，却一次又一次地让自己精心编织的梦境支离破碎……" waitInput:true Wait:true
+
+@animate Sherry posX:55
+
+@print "这样一颗疲惫的心灵完全有理由对将至的幸福感到恐惧。她不想再失去什么了，也不想再被任何得到的东西抛弃。她实在，实在承受不起了。" waitInput:true Wait:true
+
+@animate Sherry posX:50
+
+@print "好在，即便是这样的人生中也是偶尔会有一些闪光点的。仿佛命运终于对她有所怜悯" waitInput:true Wait:true
+
+@print "在她处于绝对的地狱的时候，安排了这样一位英雄闯进她的心门，接触那道封印，告诉她，世界上有着人永远永远不会抛弃她——" waitInput:true Wait:true
+
+@animate Sherry posX:45
+
+@print "而这位英雄的双手，此刻正搭在她的双肩上。四目相对。两人可以互相感觉到彼此的鼻息。" waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR1,Surprised,Cheeks1-Flushed pos:30,50 lazy:false
+
+@print "（——那那那家伙是什么时候靠近过来的哇！）" author:Hanna waitInput:true Wait:true
+
+@print "那些纠结，那些伤痛，汉娜混乱的思绪在一瞬间清空了。哪怕是监狱里的手机号格式化也需要半个小时，而她只花了几秒钟不到。" waitInput:true Wait:true
+
+@print "太近了太近了太近了！等等等等这个不会就是书里画的那个……" author:Hanna waitInput:true Wait:true
+
+@char Hanna.ArmL1,Surprised,Cheeks1-Flushed,ArmR1,Angle01/Head01/Facial01/Eyes01>Eyes01_Smile_Closed pos:30,50 lazy:false
+
+@char Sherry.ArmR10,ArmL1,Pensive,Angle01/Facial/Mouth>Mouth_Surprised_Middle pos:35,40 lazy:false time:0.2
+
+@print "啊啊啊张嘴了张嘴了——" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmR10,Pensive,ArmL11,Angle01/Facial/Mouth>Mouth_Yum_Closed pos:45,50 lazy:false time:0.2
+
+@print "我，不知道哦！" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR1,Angry,Cheeks1-Flushed pos:30,50 lazy:false
+
+@print "（结果！她果然还是个笨蛋！）" author:Hanna waitInput:true Wait:true
+
+@print "因为那种简单的问题，汉娜以后一定就会自己明白的嘛！明明那么聪明！" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR1,Flushed,Angle01/Head01/Facial01/Mouth01>Mouth01_Normal_Open pos:30,50 lazy:false
+
+@print "……" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmL1,ArmR12,Default pos:45,50 lazy:false
+
+@print "确实，就算是现在，我还是不太明白一般人的情感什么的……" author:Sherry waitInput:true Wait:true
+
+@print "不过，我很了解汉娜，也还是想和汉娜更要好一些！所以——" author:Sherry waitInput:true Wait:true
+
+@char Sherry.ArmL1,ArmR12,Smile pos:45,50 lazy:false
+
+@print "我相信汉娜做得到的，做不到的话我也会帮忙的！<br>现在的话，只需要忘掉那些讨厌的东西，安心享受就好啦！" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR1,Flushed pos:30,50 lazy:false
+
+@print "……" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmL1,ArmR11,Default pos:45,50 lazy:false
+
+@print "在另一个世界的时候，我已经说过了！不会再让汉娜桑被抛弃——" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL1,ArmR1,Flushed,Angle01/Head01/Facial01/Mouth01>Mouth01_Normal_Open pos:30,50 lazy:false
+
+@print "——太近了……" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmL1,ArmR11,Surprised,Angle01/Facial/Sweat- pos:45,50 lazy:false
+
+@print "诶？" author:Sherry waitInput:true Wait:true
+
+@char Hanna.ArmL1,Flushed,ArmR1,Angle01/Head01/Facial01/Mouth01>Mouth01_Angry_Open02 pos:30,50 lazy:false
+
+@print "我说靠的太近了哇！" author:Hanna waitInput:true Wait:true
+
+@animate Sherry posX:55
+
+@print "汉娜一把推开了雪莉，转过身去飞扑进了雪莉的枕头里，把脸要多深有多深地埋进去。" waitInput:true Wait:true
+
+@char Hanna.ArmL1,Flushed,ArmR1 pos:30,50 lazy:false
+
+@print "（再怎么说，少女的脸红可不是随便能让人看到的东西……尤其是这个木头脑袋！）" author:Hanna waitInput:true Wait:true
+
+@print "（世界上怎么可能有人可以脸不红心不跳地说出那种话——这家伙正好就是那种人啊，真是的！）" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmL1,ArmR7,Smile pos:55,50 lazy:false
+
+@print "汉娜……那是我的枕头哦？" author:Sherry waitInput:true Wait:true
+
+@print "怎样都好！你不是要我安心享受的嘛！" author:Hanna waitInput:true Wait:true
+
+@char Sherry.ArmR10,ArmL11,Smile pos:55,50 lazy:false
+
+@print "……嗯，好吧。" author:Sherry waitInput:true Wait:true
+
+@hideChars
+
+@print "时间也确实不早了呢。我原本以为汉娜会因为害羞选一人睡一头的……" author:Sherry waitInput:true Wait:true
+
+@print "不过，睡一个枕头也很开心～" author:Sherry waitInput:true Wait:true
+
+@print "呜哇！——不要扑上来——" author:Hanna waitInput:true Wait:true
+
+@print "也不要从后面抱着我哇！好紧……还没有换衣服呢……" author:Hanna waitInput:true Wait:true
+
+@print "唔，明明没有衣服带过来呢……汉娜讨厌的话，我就放开了？" author:Sherry waitInput:true Wait:true
+
+@print "……我也没那么说……" author:Hanna waitInput:true Wait:true
+
+@print "温暖的怀抱唤醒了她遥远的，被埋藏起来的，仿佛从未被她发现过的，关于“安心”的回忆。" waitInput:true Wait:true
+
+@print "世界变得平静了，在黑暗中两人相近的体温似乎成了世界上唯一存在的东西。" waitInput:true Wait:true
+
+@print "于是，有什么东西好像在一直守护着她，不让她被纷扰的杂念所侵袭。" waitInput:true Wait:true
+
+@print "果然没有不乐意嘛。<br> 话说回来，汉娜要住在这里的话，还要有许多东西需要买呢。" author:Sherry waitInput:true Wait:true
+
+@print "睡衣什么的要有，漂亮的新衣服也要有才行！" author:Sherry waitInput:true Wait:true
+
+@print "入学手续还要几天才能办好，所以明天我们就去购物吧！" author:Sherry waitInput:true Wait:true
+
+@print "这样话题跳脱的耳语，能够称之为浪漫吗？<br> 少女漫画里可没有这种搞笑一样的对话。" waitInput:true Wait:true
+
+@print "（不过，现在这个版本，或许更好更幸福，也说不定。）" author:Hanna waitInput:true Wait:true
+
+@print "啊，对了，可丽饼！汉娜喜欢的那种书里，好像经常会有这种东西！" author:Sherry waitInput:true Wait:true
+
+@print "我们明天一起去吃可丽饼吧！噢——" author:Sherry waitInput:true Wait:true
+
+@print "不许擅自替别人做决定哇……" author:Hanna waitInput:true Wait:true
+
+@print "金发的少女在温柔的怀抱中转过身来，悄悄地伸出了双臂。" waitInput:true Wait:true
+
+@print "两颗心于是就这样靠的更加紧密无间。" waitInput:true Wait:true
+
+@print "怀着对属于真实的自己的美好的未来的憧憬，伤痕累累的她终于在人生中的某一个夜晚有了对第二天的期盼。" waitInput:true Wait:true
+
+@print "于是这里，从此就是远野汉娜的家了。" waitInput:true Wait:true
+
+@wait 1
+
+@print "……汉娜桑，你睡觉原来不盖被子的吗？" author:Sherry waitInput:true Wait:true
+
+@print "闭嘴。" author:Hanna waitInput:true Wait:true
+
+
 @Gosub System/System_Subroutine.EndAdv
 
 @Return
